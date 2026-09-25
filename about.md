@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 # About Me
  
 I am Gerard Gallen, a Senior Information / Instructional Designer based in Ireland.
