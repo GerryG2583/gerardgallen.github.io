@@ -2,7 +2,7 @@
 
 ## Workflow
  
-images/AI Document Processing Engine.jpg
+images/AI%20Document%20Processing%20Engine.jpg
 
 ## Overview
 
