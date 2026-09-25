@@ -1,23 +1,22 @@
 # AI Document Processing Engine
 
+## Overview
+
+The AI Document Processing Engine modernises Word-based documentation workflows.
+
+## Problem
+
+Technical writers often spend significant effort reformatting, updating, and modernising large document libraries.
+
+## Solution
+
+The engine converts Word documents to Markdown, applies AI-assisted improvements, and recreates high-quality Word output.
+
 ## Workflow
  
 ![AI Document Processing Engine](images/ai-doc-processing-engine.jpg)
 
-
-## Overview
-
-The AI Document Processing Engine is a documentation transformation platform designed to modernise traditional Word-based documentation workflows.
-
-## Challenge
-
-Large document libraries often contain inconsistent formatting, outdated language, and duplicated content.
-
-## Solution
-
-The engine converts Word documents into Markdown using Pandoc, performs AI-assisted content transformation, and recreates high-quality Word outputs while preserving document structure and styles.
-
-## Technologies
+## Technologies Used
 
 - Python
 - Pandoc
@@ -25,17 +24,17 @@ The engine converts Word documents into Markdown using Pandoc, performs AI-assis
 - GitHub Copilot
 - Azure OpenAI
 
-## Key Benefits
+## Benefits
 
-- Improved consistency
-- Reduced editing effort
-- Reusable content workflows
-- Enterprise-ready outputs
+- Faster document modernisation
+- Consistent style
+- Improved content quality
+- Reusable Markdown source content
 
 ## Skills Demonstrated
 
-- Information Architecture
 - Technical Writing
-- Documentation Engineering
-- AI Prompt Design
+- Information Architecture
+- AI Prompt Engineering
 - Process Automation
+`
