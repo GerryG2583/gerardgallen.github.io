@@ -1,5 +1,9 @@
 # AI Document Processing Engine
 
+## Workflow
+ 
+images/AI Document Processing Engine.jpg
+
 ## Overview
 
 The AI Document Processing Engine is a documentation transformation platform designed to modernise traditional Word-based documentation workflows.
