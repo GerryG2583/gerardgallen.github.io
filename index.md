@@ -6,7 +6,7 @@ Welcome to my technical writing portfolio.
 
 ## Featured Projects
 
-- [AI Document Processing Engine](ai-doc-processing-engine.md)
+- [AI Document Processing Engine](ai-document-processing-engine.md)
 
 ## Areas of Expertise
 
