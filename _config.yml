@@ -1,3 +1,12 @@
 title: Gerard Gallen
 description: Senior Information & Instructional Designer
 theme: minima
+ 
+titles_from_headings:
+strip_title: true
+ 
+header_pages:
+- about.md
+- projects.md
+- resume.md
+- contact.md
