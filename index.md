@@ -1,16 +1,23 @@
 # Gerard Gallen
-
-Senior Information / Instructional Designer
-
+ 
+Senior Information & Instructional Designer
+ 
 Welcome to my technical writing portfolio.
-
-## Featured Projects
-
-- AI Document Processing Engine
+ 
+## Areas of Expertise
+ 
+- Technical Documentation
+- Information Architecture
 - Documentation Governance
-- Documentation Modernisation
+- AI-Assisted Documentation
 - Structured Authoring
-
-## About
-
-Learn more about my background in the About section.
+- Documentation Modernisation
+ 
+## Featured Projects
+ 
+- AI Document Processing Engine
+- Documentation Governance Framework
+- Documentation Modernisation
+- Toolkit Rationalisation
+ 
+projects.md
