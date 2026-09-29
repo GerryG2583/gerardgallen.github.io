@@ -1,18 +1,18 @@
+---
+layout: default
+title: Gerard Gallen
+nav_order: 1
+---
+
 # Gerard Gallen
 
-Senior Information & Instructional Designer
+Senior Information Designer and Technical Writer
 
-Welcome to my technical writing portfolio.
+Welcome to my technical writing portfolio. I specialize in modernizing documentation workflows and applying AI-assisted techniques to improve content quality and consistency.
 
-## Featured Projects
+---
 
-- [AI Document Processing Engine](ai-document-processing-engine.md)
+## Quick Navigation
 
-## Areas of Expertise
-
-- Technical Documentation
-- Information Architecture
-- Documentation Governance
-- AI-Assisted Documentation
-- Structured Authoring
-- Documentation Modernisation
+- **[About Me](about-me.md)** — Professional background and expertise
+- **[SITA Projects](sita/)** — Sample documentation and case studies
