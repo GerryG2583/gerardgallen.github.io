@@ -1,6 +1,6 @@
 title: Gerard Gallen
 description: Senior Information Designer and Technical Writer
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: "https://gerryg2583.github.io"
 baseurl: "/gerardgallen.github.io"
