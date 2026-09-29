@@ -7,18 +7,13 @@ nav_order: 1
 
 # Bard na nGleann Projects and Sample Documentation
 
-## Overview
+Sample documentation and project materials from work on Google products.
 
-This section is reserved for project samples and documentation examples from my work on Google product help and developer content.
-
-## Suggested Content
-
-- Help center article examples
-- Developer documentation samples
-- API guidance snippets
-- UI guidance or feature onboarding materials
-- Release note examples
+- Google Analytics help center article samples
+- Google Tag Manager developer documentation
+- Ads Data Hub API guidance
+- UI flow and feature onboarding examples
 
 ---
 
-Add project examples here as linked documents, markdown pages, or case-study summaries.
+*Add your documentation samples here.*

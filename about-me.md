@@ -6,39 +6,28 @@ nav_order: 2
 
 # About Me
 
-I am a technical writer and editor with more than 10 years of experience creating online help, user guides, API documentation, and developer content for enterprise software products.
+Senior Technical Writer and Editor with 10+ years of experience creating user guides, API documentation, online help, and developer content for enterprise software.
 
-I work across the full documentation lifecycle—from content planning and authoring to editing, governance, and documentation improvement. My focus is on creating content that is clear, consistent, and easy for users to act on.
+I bring strong editorial judgement, information design skills, and technical depth. My focus is on translating complexity into clarity—whether I'm authoring new documentation, improving existing content, or building systems that scale.
 
-## What I bring
+## Strengths
 
-- Strong editorial judgement and information design
-- Experience with structured authoring and documentation systems
-- Ability to translate technical detail into clear user guidance
-- Documentation strategy and process improvement
-- Cross-functional collaboration in Agile environments
-
-## Skills
-
-- Content strategy and planning
-- Structured authoring
+- Information architecture and content strategy
+- Structured authoring (DITA, Markdown)
 - Documentation governance and lifecycle management
-- Agile methodologies
-- Editing and content refinement
-- Documentation modernisation
+- Agile methodologies and sprint-based delivery
+- Editorial leadership and quality improvement
+- Cross-functional collaboration
+- AI-assisted documentation workflows
 
-## Tools
+## Tools & Technologies
 
-- MadCap Flare
-- Oxygen XML Editor
-- Markdown
-- DITA and structured authoring workflows
-- Jira, ADO, Git, GitHub
-- Confluence, SharePoint, and wiki platforms
+MadCap Flare, Oxygen XML Editor, DITA CMS, Markdown, Confluence, Jira, ADO, Git, GitHub, Acrolinx, Adobe Acrobat, Microsoft Office, SharePoint
 
-## Education
+## Background
 
-- BA in Journalism and English, Staffordshire University (2005)
-- Diploma in Audio and Moving Image, North West Institute (2002)
+BA in Journalism and English (Staffordshire University, 2005); Diploma in Audio and Moving Image (North West Institute, 2002).
+
+My career spans editorial work, journalism, and technical writing across multiple industries. I combine editorial excellence with technical depth to produce documentation that is clear, usable, and maintainable.
 
 **CV available on request.**

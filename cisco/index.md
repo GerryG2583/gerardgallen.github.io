@@ -9,18 +9,24 @@ has_children: true
 
 ## Overview
 
-At Cisco, I worked on product documentation for Cisco Expressway and supported the migration of legacy VCS content into a unified MadCap Flare setup. The work involved documentation quality improvement, content consolidation, and effective collaboration across product, engineering, and support teams.
+Technical Writer supporting Cisco Expressway product line. Managed feature documentation, led major content migration from legacy VCS platform, and improved documentation quality through cross-team collaboration.
 
 ## Key Projects
 
-### Cisco Expressway Documentation Updates
-I updated documentation for Cisco Expressway features and product releases, ensuring the content remained accurate and aligned with ongoing development.
+### Cisco VCS to Unified Expressway Migration
+Led migration of Cisco VCS content into a unified product offering within MadCap Flare, consolidating fragmented documentation and improving user experience.
 
-### Cisco VCS to Unified Flare Migration
-I supported the migration of Cisco VCS content into a single product offering within MadCap Flare, helping consolidate documentation and improve consistency.
+**Impact:** Reduced user confusion, single source of truth, improved content discoverability, faster release cycles.
 
-### Documentation Quality Improvement
-I worked across teams to reduce document defects and improve the quality of the documentation set, helping support a better user experience and fewer release blockers.
+### Expressway Feature Documentation
+Delivered timely, accurate documentation for Expressway feature releases and product updates across multiple versions.
+
+**Impact:** Feature adoption support, faster customer time-to-value, fewer support escalations.
+
+### Documentation Quality and Defect Reduction
+Systematically reduced documentation bug count through collaboration with engineering, product, and support teams, establishing quality review processes.
+
+**Impact:** Significantly fewer documentation issues, improved customer satisfaction, reduced support burden.
 
 ## Sample Work
 

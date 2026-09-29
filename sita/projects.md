@@ -7,19 +7,13 @@ nav_order: 1
 
 # SITA Projects and Sample Documentation
 
-## Overview
+Sample documentation and project materials from work at SITA.
 
-This section is reserved for project samples, sample documents, and supporting material from my work at SITA.
-
-## Suggested Content
-
-- Product documentation samples
-- Feature guides or release notes
-- Process documentation
-- User-facing help content
-- Documentation workflow examples
-- AI-assisted documentation examples
+- AI Document Processing Engine samples
+- MadCap Flare template and configuration examples
+- Product documentation and online help samples
+- Documentation governance case study
 
 ---
 
-Add project examples here as linked documents, markdown pages, or case-study summaries.
+*Add your documentation samples here.*

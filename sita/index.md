@@ -9,20 +9,22 @@ has_children: true
 
 ## Overview
 
-SITA is a global air transport IT provider serving the aviation industry. My work there has focused on technical documentation for passenger systems, content modernisation, and workflow improvement in a complex operational environment.
+SITA is a global air transport IT provider. My role as Senior Technical Writer focuses on developer documentation and online help for Passenger products in a complex, safety-critical environment.
 
 ## Key Projects
 
 ### AI Document Processing Engine
-A collaborative project focused on modernising manual documentation processes. The workflow converts Word documents to Markdown, applies AI-assisted improvements, and recreates polished Word output for release-ready content.
+Co-created an AI-powered workflow to modernise manual documentation processes. The engine converts Word documents to Markdown, applies AI-assisted improvements, and recreates release-ready Word output.
 
-This project demonstrates a practical approach to documentation automation, consistency, and efficiency in a documentation-heavy environment.
+**Impact:** Faster document modernisation, consistent style, improved content quality, and reusable Markdown source content.
 
-### MadCap Flare Template and Documentation Redesign
-I contributed to the redesign of toolkit pages and documentation tagging to improve governance and reduce overdue or obsolete material. This work improved maintainability and enabled a more consistent documentation structure across the product set.
+### MadCap Flare Template and Documentation Governance
+Redesigned toolkit pages and documentation tagging to reduce overdue and obsolete content. Managed Flare administration including template rebranding, migration, and platform maintenance.
 
-### Documentation Governance and Team Support
-I supported the documentation function by reviewing workflows, improving documentation quality, and helping onboard new writers. This included improving process clarity and supporting the growth of the technical writing team.
+**Impact:** Significantly fewer overdue documents, improved maintainability, and more efficient documentation governance.
+
+### Documentation Quality and Team Growth
+Supported documentation function through quality improvement initiatives and new writer onboarding, helping strengthen the technical writing team.
 
 ## Sample Work
 

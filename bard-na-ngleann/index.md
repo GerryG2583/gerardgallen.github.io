@@ -9,18 +9,24 @@ has_children: true
 
 ## Overview
 
-Bard na nGleann focused on Google product documentation, including help center content and developer-facing documentation. The work required careful attention to structure, product release cycles, and clear guidance for both users and developers.
+Remote-based technical writing role supporting Google product documentation. Managed help center content, authored developer and API documentation, and designed UI flows for analytics and advertising products.
 
 ## Key Projects
 
-### Google Analytics Help Center Updates
-I maintained and updated product help content for new Google Analytics features and worked to reduce backlog and improve user-facing guidance. The work required keeping documentation aligned with product releases and established standards.
+### Google Analytics Help Center Management
+Maintained and updated product help centers for new features while reducing documentation backlog. Ensured content remained aligned with feature releases and user needs.
 
-### Developer and API Documentation for Google Tag Manager and Ads Data Hub
-I authored developer-facing documentation for complex product workflows, translating technical functionality into clear guidance for engineering and integration teams.
+**Impact:** Improved user self-service, reduced support volume, faster feature documentation delivery.
 
-### UI Flow Guidance for New Features
-I designed guided UI flows for new feature introductions, helping users understand functionality and improved onboarding experience across key product updates.
+### Developer and API Documentation
+Authored comprehensive guides for Google Tag Manager and Ads Data Hub, following developer workflows and API documentation standards.
+
+**Impact:** Clear API guidance for integration teams, improved developer experience, faster time-to-integration.
+
+### UI Flow Design for Feature Onboarding
+Designed guided UI flows for new Google Analytics features to improve user adoption and reduce learning curve.
+
+**Impact:** Better feature discovery, improved user onboarding, faster feature adoption.
 
 ## Sample Work
 

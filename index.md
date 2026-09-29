@@ -8,28 +8,31 @@ nav_order: 1
 
 **Senior Technical Writer & Editor**
 
-I create clear, user-focused documentation for complex digital products and enterprise systems. With 10+ years of experience in technical writing, editorial leadership, and documentation strategy, I help teams improve clarity, consistency, and usability across their content.
+I create clear, user-focused documentation for complex digital products. With 10+ years of experience across aviation IT, analytics, network management, and enterprise collaboration, I help teams improve content clarity, consistency, and usability.
 
 ---
 
 ## Portfolio
 
-- **[About Me](about-me.md)** — My background, approach, and strengths
-- **[SITA](sita/)** — Aviation IT, platform documentation, and content modernisation
-- **[Bard na nGleann](bard-na-ngleann/)** — Google products, help centers, and developer documentation
-- **[Sidero](sidero/)** — Ericsson Network Manager and DITA-based documentation systems
-- **[Cisco](cisco/)** — Enterprise collaboration products and content migration
+- **[About Me](about-me.md)** — Background and approach
+- **[SITA](sita/)** — Passenger documentation, AI workflows, content modernisation
+- **[Bard na nGleann](bard-na-ngleann/)** — Google product help and developer docs
+- **[Sidero](sidero/)** — Ericsson Network Manager, DITA systems, Agile delivery
+- **[Cisco](cisco/)** — Expressway documentation, content migration, quality improvement
 
 ---
 
-## Focus Areas
+## What I Do
 
-- Documentation strategy and content planning
-- User guides, online help, and release documentation
-- API and developer documentation
-- Documentation modernisation and workflow improvement
-- Structured authoring and DITA/Markdown content systems
-- Agile collaboration and cross-functional delivery
+**Content Strategy** — Plan documentation roadmaps, design information architecture, align content with user needs and business goals.
+
+**Technical Writing** — User guides, API documentation, online help, release notes, and developer-focused content.
+
+**Documentation Improvement** — Reduce defects, improve consistency, modernise workflows, and build scalable content systems.
+
+**Structured Authoring** — Design and implement DITA, Markdown, and other structured documentation approaches.
+
+**Agile Collaboration** — Deliver documentation aligned with sprint cycles and cross-functional teams.
 
 ---
 

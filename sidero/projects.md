@@ -7,18 +7,13 @@ nav_order: 1
 
 # Sidero Projects and Sample Documentation
 
-## Overview
+Sample documentation and project materials from work on Ericsson Network Manager.
 
-This section is reserved for project samples and documentation examples from my work on Ericsson Network Manager.
-
-## Suggested Content
-
-- DITA-based process and authoring examples
-- Product documentation samples
-- Release documentation
-- Troubleshooting and operational guidance
-- Sprint-aligned documentation examples
+- Ericsson Network Manager documentation samples
+- DITA authoring and configuration examples
+- Release documentation and notes
+- Agile sprint documentation delivery examples
 
 ---
 
-Add project examples here as linked documents, markdown pages, or case-study summaries.
+*Add your documentation samples here.*

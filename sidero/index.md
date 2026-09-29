@@ -9,18 +9,24 @@ has_children: true
 
 ## Overview
 
-Sidero was a DITA-based documentation environment supporting Ericsson Network Manager. The role focused on structured authoring, sprint-based delivery, and consistent documentation across a complex product ecosystem.
+DITA-based documentation environment supporting Ericsson Network Manager. Role focused on structured authoring, sprint-based delivery, and maintaining documentation quality across complex product ecosystems.
 
 ## Key Projects
 
-### Ericsson Network Manager Documentation Set
-I helped manage the documentation set and library builds for Small Integrated ENM in a DITA CMS environment, working to meet sprint targets and maintain documentation quality across release cycles.
+### Ericsson Network Manager Documentation Delivery
+Managed documentation set and library builds for Small Integrated ENM in a DITA CMS environment, delivering release-ready content aligned with three-week sprint cycles.
 
-### DITA CMS Rollout and Workflow Adoption
-I supported the rollout of a DITA CMS web editor across multiple developer teams, helping improve efficiency and consistency in content creation and review workflows.
+**Impact:** Consistent sprint delivery, no documentation blockers, scalable content reuse through DITA structure.
+
+### DITA CMS Web Editor Rollout
+Led adoption of DITA CMS web editor across multiple developer teams, improving workflow efficiency and enabling broader team participation in content creation.
+
+**Impact:** Faster content creation, improved collaboration, reduced tool friction.
 
 ### Agile Documentation Delivery
-Working in sprint-based teams, I participated in stand-ups and retrospectives to align documentation with product delivery and ensure the doc set stayed current and release-ready.
+Active participation in Agile ceremonies (stand-ups, retrospectives) to align documentation with product development and ensure sprint targets were met.
+
+**Impact:** Documentation delivered on time, no release delays, strong cross-team collaboration.
 
 ## Sample Work
 
