@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gerard Gallen
+title: Home
 nav_order: 1
 ---
 
@@ -15,4 +15,7 @@ Welcome to my technical writing portfolio. I specialize in modernizing documenta
 ## Quick Navigation
 
 - **[About Me](about-me.md)** — Professional background and expertise
-- **[SITA Projects](sita/)** — Sample documentation and case studies
+- **[SITA](sita/)** — Sample documentation and case studies
+- **[Google](google/)** — Sample documentation and case studies
+- **[Ericsson](ericsson/)** — Sample documentation and case studies
+- **[Cisco](cisco/)** — Sample documentation and case studies
