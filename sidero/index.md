@@ -9,37 +9,19 @@ has_children: true
 
 ## Overview
 
-At Sidero, I was part of the documentation team for Ericsson Network Manager. I managed documentation sets in a DITA CMS environment, aligned work with three-week sprint cycles, and led the rollout of a DITA CMS web editor across developer teams.
+Sidero was a DITA-based documentation environment supporting Ericsson Network Manager. The role focused on structured authoring, sprint-based delivery, and consistent documentation across a complex product ecosystem.
 
-## Role and Responsibilities
+## Key Projects
 
-**Technical Writer**
-2017 – 2019 | Athlone, Ireland
+### Ericsson Network Manager Documentation Set
+I helped manage the documentation set and library builds for Small Integrated ENM in a DITA CMS environment, working to meet sprint targets and maintain documentation quality across release cycles.
 
-- Part of the documentation scrum team for Ericsson Network Manager
-- Managed documentation set and library builds for Small Integrated ENM in DITA CMS, aligned with three-week sprint targets
-- Participated in daily stand-ups and retrospectives, ensuring documentation delivery met Agile commitments
-- Rolled out DITA CMS web editor and workflow across multiple developer teams
-- Collaborated with engineering and product teams to ensure documentation accuracy and completeness
+### DITA CMS Rollout and Workflow Adoption
+I supported the rollout of a DITA CMS web editor across multiple developer teams, helping improve efficiency and consistency in content creation and review workflows.
 
-## Key Achievements
+### Agile Documentation Delivery
+Working in sprint-based teams, I participated in stand-ups and retrospectives to align documentation with product delivery and ensure the doc set stayed current and release-ready.
 
-- **Agile Documentation**: Successfully delivered documentation on sprint cycles for complex network management products
-- **DITA CMS Expertise**: Deep experience with DITA content management, including library builds and content publishing
-- **Tool Rollout**: Led the adoption of a DITA CMS web editor across multiple developer teams, improving workflow efficiency
-- **Team Collaboration**: Active participation in Agile ceremonies (stand-ups, retrospectives) to ensure documentation priorities aligned with product development
-
-## Focus Areas
-
-- Structured authoring using DITA
-- Agile methodology and sprint-based documentation delivery
-- Content management systems and library management
-- Network and systems documentation
-- Complex product documentation
-- Multi-team collaboration and tool adoption
-
-## Projects and Samples
-
-Explore sample documentation from my work at Sidero.
+## Sample Work
 
 - [Projects and Sample Documentation](projects.md)

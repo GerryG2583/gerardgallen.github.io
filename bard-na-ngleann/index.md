@@ -9,36 +9,19 @@ has_children: true
 
 ## Overview
 
-Bard na nGleann was a remote-based technical writing role focused on Google products. I managed product help centers, authored developer and API documentation, and designed UI flows for analytics and advertising products.
+Bard na nGleann focused on Google product documentation, including help center content and developer-facing documentation. The work required careful attention to structure, product release cycles, and clear guidance for both users and developers.
 
-## Role and Responsibilities
+## Key Projects
 
-**Technical Writer**
-2019 – 2022 | Remote, Ireland
+### Google Analytics Help Center Updates
+I maintained and updated product help content for new Google Analytics features and worked to reduce backlog and improve user-facing guidance. The work required keeping documentation aligned with product releases and established standards.
 
-- Maintained and updated Google Analytics product help centers for new features and resolved documentation bug backlog
-- Authored developer and API documentation for Google Tag Manager and Ads Data Hub, following developer workflows and standards
-- Designed guided UI flows for new Google Analytics features
-- Collaborated with product and engineering teams to ensure documentation accuracy and timeliness
+### Developer and API Documentation for Google Tag Manager and Ads Data Hub
+I authored developer-facing documentation for complex product workflows, translating technical functionality into clear guidance for engineering and integration teams.
 
-## Key Achievements
+### UI Flow Guidance for New Features
+I designed guided UI flows for new feature introductions, helping users understand functionality and improved onboarding experience across key product updates.
 
-- **Help Center Management**: Successfully maintained and updated Google Analytics help centers with a focus on new feature documentation and bug resolution
-- **Developer Documentation**: Created comprehensive API and developer guides for complex products (Google Tag Manager, Ads Data Hub)
-- **User Experience Design**: Contributed to UI flow design for new features, improving user onboarding and guidance
-- **Documentation Quality**: Ensured documentation aligned with developer workflows and standards, improving user adoption
-
-## Focus Areas
-
-- Product help center management and updates
-- Developer and API documentation
-- UI flow design and user guidance
-- Documentation for fast-moving product environments
-- Feature documentation and release support
-- User onboarding and getting started materials
-
-## Projects and Samples
-
-Explore sample documentation from my work at Bard na nGleann.
+## Sample Work
 
 - [Projects and Sample Documentation](projects.md)

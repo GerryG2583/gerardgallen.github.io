@@ -9,27 +9,16 @@ nav_order: 1
 
 ## Overview
 
-This section features sample documentation and project materials from my work with Google products. Examples include help center content, developer documentation, and UI flow design materials.
+This section is reserved for project samples and documentation examples from my work on Google product help and developer content.
 
-## Sample Document Types
+## Suggested Content
 
-- Product help center articles
-- Developer and API documentation
-- Getting started guides
-- Feature documentation
-- User guidance and procedures
-- UI flow and onboarding materials
-- Troubleshooting and FAQs
-
-## Documentation Approach
-
-At Bard na nGleann, I focused on:
-- Clear, accessible help content for broad audiences
-- Developer-centric API documentation
-- Responsive help center design and management
-- Feature documentation aligned with product releases
-- User onboarding and feature adoption
+- Help center article examples
+- Developer documentation samples
+- API guidance snippets
+- UI guidance or feature onboarding materials
+- Release note examples
 
 ---
 
-*Sample documents and project materials can be added here as linked files, embedded documentation, or case study writeups.*
+Add project examples here as linked documents, markdown pages, or case-study summaries.

@@ -9,37 +9,19 @@ has_children: true
 
 ## Overview
 
-At Cisco, I worked as a Technical Writer on the Cisco Expressway product line. I updated documentation for new features, managed a major content migration from Cisco VCS to MadCap Flare, and collaborated across teams to improve documentation quality and reduce defects.
+At Cisco, I worked on product documentation for Cisco Expressway and supported the migration of legacy VCS content into a unified MadCap Flare setup. The work involved documentation quality improvement, content consolidation, and effective collaboration across product, engineering, and support teams.
 
-## Role and Responsibilities
+## Key Projects
 
-**Technical Writer**
-2014 – 2017 | Galway, Ireland
+### Cisco Expressway Documentation Updates
+I updated documentation for Cisco Expressway features and product releases, ensuring the content remained accurate and aligned with ongoing development.
 
-- Updated documentation and features for Cisco Expressway
-- Led migration of Cisco VCS content to create a single product offering within MadCap Flare
-- Reduced document bug count significantly through collaboration with multiple teams
-- Coordinated with engineering, product, and support teams to ensure documentation accuracy and completeness
-- Managed documentation for feature releases and product updates
+### Cisco VCS to Unified Flare Migration
+I supported the migration of Cisco VCS content into a single product offering within MadCap Flare, helping consolidate documentation and improve consistency.
 
-## Key Achievements
+### Documentation Quality Improvement
+I worked across teams to reduce document defects and improve the quality of the documentation set, helping support a better user experience and fewer release blockers.
 
-- **Content Migration**: Successfully migrated Cisco VCS content into a unified product offering within MadCap Flare, reducing fragmentation and improving user experience
-- **Quality Improvement**: Significantly reduced documentation bug count through systematic collaboration and review processes across teams
-- **Release Documentation**: Delivered timely, accurate documentation for feature releases and product updates
-- **Cross-Team Collaboration**: Built strong working relationships with engineering, product, and support teams to improve documentation quality and customer satisfaction
-
-## Focus Areas
-
-- Enterprise video and collaboration technology documentation
-- MadCap Flare content management and publishing
-- Feature documentation and release support
-- Documentation quality and defect management
-- Cross-team collaboration and stakeholder management
-- Documentation migration and consolidation
-
-## Projects and Samples
-
-Explore sample documentation from my work at Cisco.
+## Sample Work
 
 - [Projects and Sample Documentation](projects.md)
