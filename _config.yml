@@ -1,7 +1,14 @@
 title: Gerard Gallen
-description: Senior Information & Instructional Designer
-theme: minima
-
-header_pages:
-  - about.md
-  - projects.md
+description: Senior Information Designer and Technical Writer
+theme: just-the-docs
+ 
+url: https://gerryg2583.github.io
+baseurl: "/gerardgallen.github.io"
+ 
+search_enabled: true
+ 
+aux_links:
+LinkedIn:
+- https://www.linkedin.com/
+GitHub:
+- https://github.com/gerryg2583
