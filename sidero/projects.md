@@ -1,34 +1,61 @@
 ---
 layout: default
-title: Projects and Samples
+title: Sample Work
 parent: Sidero
-nav_order: 1
+nav_order: 2
 ---
 
-# Sidero Projects and Sample Documentation
+# Sidero Sample Work & Deliverables
 
-Sample documentation and project materials from work on Ericsson Network Manager.
+## Ericsson Network Manager Documentation Delivery
 
-## Key Project Deliverables
+**Project Type:** Product documentation, enterprise software
 
-### Ericsson Network Manager Documentation
-- Small Integrated ENM product documentation
-- Release documentation and change notes
-- User guides and reference material
+### Deliverables
+- Small Integrated ENM user guides and reference material
+- Release documentation and version-specific notes
+- Installation and configuration guides
+- Troubleshooting and support documentation
+- Administration and maintenance documentation
 - Documentation builds and release artifacts
 
-### DITA Authoring and Structure
-- DITA XML authoring examples
-- DITA CMS configuration samples
-- Content reuse and modular authoring patterns
-- Topic templates and information architecture
-
-### Agile Sprint Delivery
-- Sprint planning and documentation roadmaps
-- Release documentation workflows
-- Quality assurance and review processes
-- Documentation delivery within sprint cycles
+### Tools & Technologies
+DITA CMS, XML authoring, MadCap Flare, documentation automation
 
 ---
 
-*Add your documentation samples and links here.*
+## DITA CMS Web Editor Rollout
+
+**Project Type:** Tool adoption, training and enablement
+
+### Deliverables
+- DITA XML authoring templates and examples
+- Content reuse patterns and modular authoring guide
+- Web editor training materials and tutorials
+- Information architecture and topic structure documentation
+- Best practices and style guide
+- Writer enablement and adoption resources
+
+### Tools & Technologies
+DITA XML, DITA CMS, content reuse, modular design, training documentation
+
+---
+
+## Agile Documentation Delivery
+
+**Project Type:** Agile processes, sprint-based documentation
+
+### Deliverables
+- Sprint planning and documentation roadmap templates
+- Release documentation workflows and checklists
+- Quality assurance and review processes
+- Sprint delivery documentation examples
+- Integration with Agile ceremonies
+- Velocity tracking and metrics documentation
+
+### Tools & Technologies
+Agile methodologies, sprint planning tools, release management, quality assurance
+
+---
+
+*Add links to sample DITA topics, documentation templates, or release notes here.*
