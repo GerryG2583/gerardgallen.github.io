@@ -13,6 +13,7 @@ Sample documentation and project materials from work at SITA.
 - MadCap Flare template and configuration examples
 - Product documentation and online help samples
 - Documentation governance case study
+- Content modernisation and toolkit rationalisation examples
 
 ---
 
