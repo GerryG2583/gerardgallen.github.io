@@ -4,92 +4,265 @@ title: Home
 nav_order: 1
 ---
 
-<div class="profile-header">
-  <div class="profile-image-wrap">
-    <img src="profile%20pic%202.jpg" alt="Gerard Gallen profile photo" class="profile-photo" />
-  </div>
-  <div class="profile-intro">
-    <p><strong>Senior Technical Writer &amp; Editor</strong></p>
-    <p>I help teams turn complex product information into clear, usable documentation that supports customers, reduces support burden, and improves product adoption. With more than 10 years of experience in technical communication, information design, and documentation strategy, I create content that is practical, polished, and easy to use.</p>
+<div class="hero-section">
+  <div class="profile-card">
+    <div class="profile-image-container">
+      <img src="profile%20pic%202.jpg" alt="Gerard Gallen – Senior Technical Writer" class="profile-photo" />
+    </div>
+    <div class="profile-content">
+      <h1 class="profile-title">Gerard Gallen</h1>
+      <p class="profile-subtitle">Senior Technical Writer & Documentation Strategy Expert</p>
+      <p class="profile-summary">I transform complex product information into clear, actionable documentation that drives customer adoption, reduces support burden, and scales across enterprise environments. With 10+ years leading documentation strategy, information architecture, and structured authoring initiatives across SaaS, enterprise software, and global travel platforms.</p>
+      
+      <div class="cta-group">
+        <a href="#portfolio" class="btn btn-primary">View Portfolio</a>
+        <a href="contact.md" class="btn btn-secondary">Get in Touch</a>
+        <a href="Gerard%20Gallen%20CV%202026.docx" class="btn btn-tertiary">Download CV</a>
+      </div>
+    </div>
   </div>
 </div>
 
-[Download CV](Gerard%20Gallen%20CV%202026.docx)
+---
+
+## Core Expertise
+
+<div class="expertise-grid">
+  <div class="expertise-card">
+    <h3>Content Strategy</h3>
+    <p>Documentation roadmaps, information architecture, user research, and content governance aligned to product and business goals.</p>
+  </div>
+  
+  <div class="expertise-card">
+    <h3>Technical Writing</h3>
+    <p>User guides, API documentation, release notes, help centre content, and developer-facing materials for complex software products.</p>
+  </div>
+  
+  <div class="expertise-card">
+    <h3>Structured Authoring</h3>
+    <p>DITA, Markdown, XML architecture; reusable content components; single-sourcing; topic-based writing; scalable authoring systems.</p>
+  </div>
+  
+  <div class="expertise-card">
+    <h3>Documentation Quality</h3>
+    <p>Defect reduction, consistency improvement, governance frameworks, cross-functional review processes, and metrics-driven improvement.</p>
+  </div>
+  
+  <div class="expertise-card">
+    <h3>Information Design</h3>
+    <p>User-centred content design, navigation architecture, accessibility, and documentation that supports user workflows and mental models.</p>
+  </div>
+  
+  <div class="expertise-card">
+    <h3>AI-Assisted Documentation</h3>
+    <p>Modern documentation workflows using AI tools; process automation; maintaining clarity, accuracy, and governance at scale.</p>
+  </div>
+</div>
 
 ---
 
+<a id="portfolio"></a>
 ## Portfolio
 
-- **[About Me](about-me.md)** — Background, strengths, and professional approach
-- **[SITA](sita/)** — Passenger documentation, AI workflows, and content governance
-- **[Bard na nGleann](bard-na-ngleann/)** — Google product help and developer documentation
-- **[Sidero](sidero/)** — Ericsson Network Manager, structured authoring, and agile delivery
-- **[Cisco](cisco/)** — Expressway documentation and migration quality improvement
+### Recent Project Work
+
+- **[SITA](sita/)** — Passenger services documentation, AI workflows, and documentation governance at scale
+- **[Bard na nGleann](bard-na-ngleann/)** — Google product documentation, help centre operations, and developer guidance
+- **[Sidero](sidero/)** — Network management documentation, structured authoring, and agile delivery
+- **[Cisco](cisco/)** — Enterprise platform migration, release documentation, and quality improvement
 
 ---
 
-## What I Do
+## Why Choose This Portfolio
 
-**Content Strategy** — Plan documentation roadmaps, shape information architecture, and align content with user needs and business goals.
+✓ **Proven Impact** — Demonstrated results across product adoption, support reduction, and documentation scale
 
-**Technical Writing** — Create user guides, API documentation, online help, release notes, and developer-focused content.
+✓ **Enterprise Experience** — 10+ years with Fortune 500, SaaS, and scale-up organizations
 
-**Documentation Improvement** — Reduce defects, improve consistency, modernise legacy content, and build scalable documentation systems.
+✓ **Strategic Approach** — Not just writing; content strategy, governance, and business alignment
 
-**Structured Authoring** — Design and maintain DITA, Markdown, and other structured authoring approaches for reusable, maintainable content.
+✓ **Modern Tooling** — Proficient in DITA, Markdown, MadCap Flare, Oxygen, Git workflows, and AI-assisted tools
 
-**AI-Assisted Documentation** — Apply AI workflows to modernise documentation operations without sacrificing clarity, accuracy, or governance.
+✓ **User-Focused** — Every project grounded in user research, information design, and accessibility principles
 
 ---
 
 ## Open to Opportunities
 
-I am available for senior technical writing, documentation strategy, information architecture, and content operations roles in product, SaaS, and enterprise environments.
+I'm seeking senior technical writing, documentation strategy, and content operations roles with organizations that value clear communication, user-centred design, and documentation as a business driver.
 
-**[Download CV](Gerard%20Gallen%20CV%202026.docx)**
+**[Start a conversation →](contact.md)**
 
 <style>
-  .profile-header {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-    margin: 0 0 1.5rem 0;
-    flex-wrap: wrap;
+  .hero-section {
+    margin-bottom: 2.5rem;
+    background: linear-gradient(135deg, rgba(63, 81, 181, 0.04) 0%, rgba(33, 150, 243, 0.04) 100%);
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid rgba(63, 81, 181, 0.1);
   }
-
-  .profile-image-wrap {
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
+  
+  .profile-card {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+  
+  .profile-image-container {
+    width: 220px;
+    height: 220px;
+    border-radius: 16px;
     overflow: hidden;
-    border: 3px solid #dfe3e8;
-    background: #f3f4f6;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    border: 3px solid #2196F3;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    box-shadow: 0 16px 40px rgba(33, 150, 243, 0.15);
     flex-shrink: 0;
   }
-
+  
   .profile-photo {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
-    filter: grayscale(100%) contrast(1.05) brightness(0.96);
+    filter: grayscale(100%) contrast(1.12) brightness(0.94) saturate(0.8);
   }
-
-  .profile-intro {
-    flex: 1;
-    min-width: 220px;
+  
+  .profile-content {
+    padding-right: 1rem;
   }
-
-  @media (max-width: 640px) {
-    .profile-header {
-      justify-content: center;
-      text-align: center;
+  
+  .profile-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0 0 0.25rem 0;
+    color: #1a1a1a;
+    line-height: 1.2;
+  }
+  
+  .profile-subtitle {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #2196F3;
+    margin: 0 0 1rem 0;
+  }
+  
+  .profile-summary {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #424242;
+    margin: 0 0 1.5rem 0;
+  }
+  
+  .cta-group {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+  }
+  
+  .btn {
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+  }
+  
+  .btn-primary {
+    background: #2196F3;
+    color: white;
+  }
+  
+  .btn-primary:hover {
+    background: #1976D2;
+    box-shadow: 0 8px 16px rgba(33, 150, 243, 0.3);
+  }
+  
+  .btn-secondary {
+    background: white;
+    color: #2196F3;
+    border-color: #2196F3;
+  }
+  
+  .btn-secondary:hover {
+    background: #f5f9ff;
+  }
+  
+  .btn-tertiary {
+    background: transparent;
+    color: #2196F3;
+    border-color: #2196F3;
+  }
+  
+  .btn-tertiary:hover {
+    background: rgba(33, 150, 243, 0.08);
+  }
+  
+  .expertise-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  .expertise-card {
+    background: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+  }
+  
+  .expertise-card:hover {
+    border-color: #2196F3;
+    background: #f5f9ff;
+    box-shadow: 0 8px 20px rgba(33, 150, 243, 0.12);
+    transform: translateY(-4px);
+  }
+  
+  .expertise-card h3 {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.1rem;
+    color: #2196F3;
+  }
+  
+  .expertise-card p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  @media (max-width: 768px) {
+    .profile-card {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
     }
-
-    .profile-image-wrap {
-      width: 150px;
-      height: 150px;
+    
+    .profile-image-container {
+      width: 180px;
+      height: 180px;
+      margin: 0 auto;
+    }
+    
+    .profile-title {
+      font-size: 1.8rem;
+    }
+    
+    .profile-subtitle {
+      font-size: 1.1rem;
+    }
+    
+    .hero-section {
+      padding: 1.5rem;
+    }
+    
+    .cta-group {
+      justify-content: center;
     }
   }
 </style>

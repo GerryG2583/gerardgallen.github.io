@@ -1,8 +1,15 @@
 title: Gerard Gallen
-description: Senior Information Designer and Technical Writer
+description: Senior Technical Writer & Documentation Strategy Expert
+keywords: technical writing, documentation, information architecture, content strategy, DITA, Markdown
+author: Gerard Gallen
+email: gerard.gallen@gmail.com
 remote_theme: just-the-docs/just-the-docs
 
 url: "https://gerryg2583.github.io"
 baseurl: "/gerardgallen.github.io"
 
 search_enabled: true
+
+# SEO & Social
+logo: "/gerardgallen.github.io/images/profile-thumb.jpg"
+color_scheme: light

@@ -100,4 +100,4 @@ UI/UX design principles, onboarding strategy, content design, user support docum
 
 ---
 
-*Add links to sample documentation, help center articles, or API samples here.*
+**[← Back to Bard na nGleann](index.md)** | **[View All Projects →](../projects.md)**
