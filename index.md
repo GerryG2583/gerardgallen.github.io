@@ -4,8 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-# Gerard Gallen
-
 **Senior Technical Writer & Editor**
 
 I help teams turn complex product information into clear, usable documentation that supports customers, reduces support burden, and improves product adoption. With more than 10 years of experience across aviation IT, analytics, network management, and enterprise collaboration, I design documentation systems that are practical, scalable, and user-focused.
