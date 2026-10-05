@@ -4,63 +4,42 @@ title: Contact & Opportunities
 nav_order: 7
 ---
 
-# Let's Connect
+# Let's connect
 
-I'm actively exploring senior technical writing, documentation strategy, and content operations roles where documentation drives product adoption and business success.
+I am open to senior technical writing, documentation strategy, content design, and content operations opportunities where strong communication and clear information systems are central to product success.
 
-Whether you're:
-- **Building product documentation** that scales and supports users
-- **Transforming legacy documentation** into modern, maintainable systems
-- **Leading content strategy** for technical products or platforms
-- **Establishing documentation governance** across teams or organizations
-
-…I'd welcome a conversation.
+Whether you are looking for someone to improve documentation quality, redesign information architecture, or bring structure to a growing documentation function, I would be glad to talk.
 
 ---
 
-## How to Reach Me
+## Contact details
 
-📧 **Email:** [gerard.gallen@gmail.com](mailto:gerard.gallen@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/gerard-gallen](https://www.linkedin.com/in/gerard-gallen)
-
-🐙 **GitHub:** [github.com/GerryG2583](https://github.com/GerryG2583)
-
-📄 **CV:** [Download PDF](Gerard%20Gallen%20CV%202026.docx)
+- Email: [gerard.gallen@gmail.com](mailto:gerard.gallen@gmail.com)
+- LinkedIn: [linkedin.com/in/gerard-gallen](https://www.linkedin.com/in/gerard-gallen)
+- GitHub: [github.com/GerryG2583](https://github.com/GerryG2583)
+- CV: [Download CV](Gerard%20Gallen%20CV%202026.docx)
 
 ---
 
-## What I'm Looking For
+## What I am looking for
 
-✓ **Documentation as strategic priority** — Roles where content directly impacts product success and customer satisfaction
-
-✓ **User-centred teams** — Organizations that prioritize understanding real user needs and behaviours
-
-✓ **Technical depth** — Products or platforms complex enough to require thoughtful information architecture and structured content systems
-
-✓ **Collaborative environments** — Cross-functional teams that value documentation partnership with product, engineering, and support
-
-✓ **Growth opportunities** — Roles where I can mentor, build systems, and drive documentation evolution alongside product growth
-
-**Locations:** Remote preferred; UK-based roles welcome; open to hybrid or relocation for the right opportunity.
+- Senior technical writing roles
+- Documentation strategy and governance responsibilities
+- Information architecture and content design work
+- Content operations or documentation leadership opportunities
+- Product or platform roles where clear, well-structured documentation matters
 
 ---
 
-## Recent Work
+## Relevant portfolio areas
 
-Explore my portfolio to see how I've approached documentation at scale:
-
-- **[SITA](sita/)** — Global travel platform documentation and AI workflows
-- **[Google (Bard na nGleann)](bard-na-ngleann/)** — Product help centres and developer documentation
-- **[Sidero](sidero/)** — Network management and structured authoring
-- **[Cisco](cisco/)** — Enterprise platform migration and quality improvement
+- [SITA](sita/)
+- [Bard na nGleann](bard-na-ngleann/)
+- [Sidero](sidero/)
+- [Cisco](cisco/)
 
 ---
 
-## About This Portfolio
+I welcome conversations about documentation challenges, process improvement, and how to make technical information easier for users to understand and use.
 
-This site showcases my approach to documentation: **clear, strategic, and user-focused**. It's built on GitHub Pages and maintained in version control—because documentation deserves the same rigour and craftsmanship as code.
-
----
-
-**Ready to talk about your documentation challenges? [Let's connect.](mailto:gerard.gallen@gmail.com)**
+**[Email me](mailto:gerard.gallen@gmail.com)**

@@ -7,16 +7,18 @@ nav_order: 1
 <div class="hero-section">
   <div class="profile-card">
     <div class="profile-image-container">
-      <img src="profile%20pic%202.jpg" alt="Gerard Gallen – Senior Technical Writer" class="profile-photo" />
+      <img src="profile%20pic%202.jpg" alt="Gerard Gallen" class="profile-photo" />
     </div>
     <div class="profile-content">
+      <p class="eyebrow">Technical Writing • Information Architecture • Documentation Strategy</p>
       <h1 class="profile-title">Gerard Gallen</h1>
-      <p class="profile-subtitle">Senior Technical Writer & Documentation Strategy Expert</p>
-      <p class="profile-summary">I transform complex product information into clear, actionable documentation that drives customer adoption, reduces support burden, and scales across enterprise environments. With 10+ years leading documentation strategy, information architecture, and structured authoring initiatives across SaaS, enterprise software, and global travel platforms.</p>
-      
+      <p class="profile-subtitle">Senior Technical Writer & Documentation Strategist</p>
+      <p class="profile-summary">
+        I help organisations turn complex product information into clear, usable documentation that improves customer experience, reduces support demand, and supports product adoption at scale.
+      </p>
       <div class="cta-group">
-        <a href="#portfolio" class="btn btn-primary">View Portfolio</a>
-        <a href="contact.md" class="btn btn-secondary">Get in Touch</a>
+        <a href="#portfolio" class="btn btn-primary">View portfolio</a>
+        <a href="contact.md" class="btn btn-secondary">Contact me</a>
         <a href="Gerard%20Gallen%20CV%202026.docx" class="btn btn-tertiary">Download CV</a>
       </div>
     </div>
@@ -25,242 +27,231 @@ nav_order: 1
 
 ---
 
-## Core Expertise
+## Core strengths
 
 <div class="expertise-grid">
   <div class="expertise-card">
-    <h3>Content Strategy</h3>
-    <p>Documentation roadmaps, information architecture, user research, and content governance aligned to product and business goals.</p>
+    <h3>Documentation strategy</h3>
+    <p>Roadmaps, governance, standards, and scalable documentation systems aligned to product and business goals.</p>
   </div>
-  
+
   <div class="expertise-card">
-    <h3>Technical Writing</h3>
-    <p>User guides, API documentation, release notes, help centre content, and developer-facing materials for complex software products.</p>
+    <h3>Information architecture</h3>
+    <p>Content structures, taxonomies, navigation, and user-centred design that make complex systems easier to understand.</p>
   </div>
-  
+
   <div class="expertise-card">
-    <h3>Structured Authoring</h3>
-    <p>DITA, Markdown, XML architecture; reusable content components; single-sourcing; topic-based writing; scalable authoring systems.</p>
+    <h3>Technical writing</h3>
+    <p>User guides, release notes, help centre content, API docs, and developer-facing documentation for complex products.</p>
   </div>
-  
+
   <div class="expertise-card">
-    <h3>Documentation Quality</h3>
-    <p>Defect reduction, consistency improvement, governance frameworks, cross-functional review processes, and metrics-driven improvement.</p>
+    <h3>Structured authoring</h3>
+    <p>DITA, Markdown, XML, topic-based writing, single-sourcing, and scalable workflows for maintainable content.</p>
   </div>
-  
+
   <div class="expertise-card">
-    <h3>Information Design</h3>
-    <p>User-centred content design, navigation architecture, accessibility, and documentation that supports user workflows and mental models.</p>
+    <h3>Documentation quality</h3>
+    <p>Review frameworks, editorial standards, defect reduction, and process improvements that increase content quality.</p>
   </div>
-  
+
   <div class="expertise-card">
-    <h3>AI-Assisted Documentation</h3>
-    <p>Modern documentation workflows using AI tools; process automation; maintaining clarity, accuracy, and governance at scale.</p>
+    <h3>AI-assisted documentation</h3>
+    <p>Modern workflows that combine AI efficiency with governance, accuracy, and editorial control.</p>
   </div>
 </div>
 
 ---
 
 <a id="portfolio"></a>
-## Portfolio
+## Portfolio highlights
 
-### Recent Project Work
-
-- **[SITA](sita/)** — Passenger services documentation, AI workflows, and documentation governance at scale
-- **[Bard na nGleann](bard-na-ngleann/)** — Google product documentation, help centre operations, and developer guidance
-- **[Sidero](sidero/)** — Network management documentation, structured authoring, and agile delivery
-- **[Cisco](cisco/)** — Enterprise platform migration, release documentation, and quality improvement
+- **[SITA](sita/)** — Travel and passenger information documentation, AI-enabled workflow support, and content governance
+- **[Bard na nGleann](bard-na-ngleann/)** — Product help centre content, developer documentation, and onboarding flows
+- **[Sidero](sidero/)** — Structured authoring for network documentation and agile delivery
+- **[Cisco](cisco/)** — Legacy content migration, release documentation, and documentation quality improvement
 
 ---
 
-## Why Choose This Portfolio
+## Why employers choose this profile
 
-✓ **Proven Impact** — Demonstrated results across product adoption, support reduction, and documentation scale
-
-✓ **Enterprise Experience** — 10+ years with Fortune 500, SaaS, and scale-up organizations
-
-✓ **Strategic Approach** — Not just writing; content strategy, governance, and business alignment
-
-✓ **Modern Tooling** — Proficient in DITA, Markdown, MadCap Flare, Oxygen, Git workflows, and AI-assisted tools
-
-✓ **User-Focused** — Every project grounded in user research, information design, and accessibility principles
+- 10+ years of experience translating complex technical information into clear, usable content
+- Experience working across enterprise software, SaaS, and global operations
+- Strong user-centred approach grounded in information design and accessibility
+- Skilled in both delivery and governance: writing, structure, review, and process improvement
+- Comfortable working with product, engineering, support, and stakeholders in fast-moving environments
 
 ---
 
-## Open to Opportunities
+## Open to opportunities
 
-I'm seeking senior technical writing, documentation strategy, and content operations roles with organizations that value clear communication, user-centred design, and documentation as a business driver.
+I am available for senior technical writing, documentation strategy, information architecture, or content operations roles where good documentation is a business asset and not a side task.
 
-**[Start a conversation →](contact.md)**
+**[Contact me](contact.md)**  •  **[Download CV](Gerard%20Gallen%20CV%202026.docx)**
 
 <style>
   .hero-section {
-    margin-bottom: 2.5rem;
-    background: linear-gradient(135deg, rgba(63, 81, 181, 0.04) 0%, rgba(33, 150, 243, 0.04) 100%);
-    padding: 2rem;
+    margin-bottom: 2rem;
+    background: linear-gradient(135deg, rgba(18, 56, 94, 0.04), rgba(33, 150, 243, 0.06));
+    border: 1px solid rgba(18, 56, 94, 0.08);
     border-radius: 12px;
-    border: 1px solid rgba(63, 81, 181, 0.1);
+    padding: 2rem;
   }
-  
+
   .profile-card {
     display: grid;
     grid-template-columns: 220px 1fr;
     gap: 2rem;
-    align-items: start;
+    align-items: center;
   }
-  
+
   .profile-image-container {
     width: 220px;
     height: 220px;
-    border-radius: 16px;
+    border-radius: 14px;
     overflow: hidden;
-    border: 3px solid #2196F3;
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    box-shadow: 0 16px 40px rgba(33, 150, 243, 0.15);
-    flex-shrink: 0;
+    border: 3px solid rgba(33, 150, 243, 0.8);
+    background: linear-gradient(135deg, #eef4fb, #dfeaf7);
+    box-shadow: 0 18px 40px rgba(33, 150, 243, 0.12);
   }
-  
+
   .profile-photo {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
-    filter: grayscale(100%) contrast(1.12) brightness(0.94) saturate(0.8);
+    filter: grayscale(100%) contrast(1.08) brightness(0.96) saturate(0.7);
   }
-  
+
   .profile-content {
-    padding-right: 1rem;
+    min-width: 0;
   }
-  
-  .profile-title {
-    font-size: 2.2rem;
+
+  .eyebrow {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.76rem;
     font-weight: 700;
-    margin: 0 0 0.25rem 0;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #1d5f93;
+  }
+
+  .profile-title {
+    margin: 0;
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    line-height: 1.1;
     color: #1a1a1a;
-    line-height: 1.2;
   }
-  
+
   .profile-subtitle {
-    font-size: 1.25rem;
-    font-weight: 500;
-    color: #2196F3;
-    margin: 0 0 1rem 0;
+    margin: 0.4rem 0 0.9rem 0;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #1a5d98;
   }
-  
+
   .profile-summary {
+    margin: 0 0 1.3rem 0;
     font-size: 1rem;
-    line-height: 1.6;
-    color: #424242;
-    margin: 0 0 1.5rem 0;
+    line-height: 1.7;
+    color: #3f3f3f;
+    max-width: 60ch;
   }
-  
+
   .cta-group {
     display: flex;
     gap: 0.75rem;
     flex-wrap: wrap;
-    margin-top: 1.5rem;
   }
-  
+
   .btn {
-    padding: 0.75rem 1.5rem;
+    display: inline-block;
+    padding: 0.7rem 1.2rem;
     border-radius: 6px;
     font-weight: 600;
     font-size: 0.95rem;
+    transition: all 0.2s ease;
     text-decoration: none;
-    display: inline-block;
-    transition: all 0.3s ease;
     border: 2px solid transparent;
   }
-  
+
   .btn-primary {
-    background: #2196F3;
+    background: #1d5f93;
     color: white;
   }
-  
+
   .btn-primary:hover {
-    background: #1976D2;
-    box-shadow: 0 8px 16px rgba(33, 150, 243, 0.3);
+    background: #164d7d;
+    text-decoration: none;
   }
-  
+
   .btn-secondary {
     background: white;
-    color: #2196F3;
-    border-color: #2196F3;
+    color: #1d5f93;
+    border-color: #1d5f93;
   }
-  
+
   .btn-secondary:hover {
-    background: #f5f9ff;
+    background: #f4f9ff;
+    text-decoration: none;
   }
-  
+
   .btn-tertiary {
     background: transparent;
-    color: #2196F3;
-    border-color: #2196F3;
+    color: #1d5f93;
+    border-color: #1d5f93;
   }
-  
+
   .btn-tertiary:hover {
-    background: rgba(33, 150, 243, 0.08);
+    background: rgba(29, 95, 147, 0.06);
+    text-decoration: none;
   }
-  
+
   .expertise-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1.5rem;
-    margin: 2rem 0;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0 2rem 0;
   }
-  
+
   .expertise-card {
-    background: #f9f9f9;
-    border: 1px solid #e0e0e0;
+    background: #f8fafc;
+    border: 1px solid #e5edf5;
     border-radius: 8px;
-    padding: 1.5rem;
-    transition: all 0.3s ease;
+    padding: 1.2rem 1rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
-  
+
   .expertise-card:hover {
-    border-color: #2196F3;
-    background: #f5f9ff;
-    box-shadow: 0 8px 20px rgba(33, 150, 243, 0.12);
-    transform: translateY(-4px);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 22px rgba(0,0,0,0.04);
   }
-  
+
   .expertise-card h3 {
-    margin: 0 0 0.75rem 0;
-    font-size: 1.1rem;
-    color: #2196F3;
+    margin: 0 0 0.6rem 0;
+    color: #1d5f93;
+    font-size: 1.05rem;
   }
-  
+
   .expertise-card p {
     margin: 0;
-    font-size: 0.95rem;
-    line-height: 1.5;
-    color: #555;
+    line-height: 1.6;
+    color: #4a4a4a;
   }
-  
+
   @media (max-width: 768px) {
     .profile-card {
       grid-template-columns: 1fr;
-      gap: 1.5rem;
+      gap: 1.2rem;
+      text-align: center;
     }
-    
+
     .profile-image-container {
       width: 180px;
       height: 180px;
       margin: 0 auto;
     }
-    
-    .profile-title {
-      font-size: 1.8rem;
-    }
-    
-    .profile-subtitle {
-      font-size: 1.1rem;
-    }
-    
-    .hero-section {
-      padding: 1.5rem;
-    }
-    
+
     .cta-group {
       justify-content: center;
     }

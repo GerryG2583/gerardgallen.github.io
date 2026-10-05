@@ -5,137 +5,96 @@ nav_order: 2
 ---
 
 <div class="about-header">
-  <div class="about-image">
+  <div class="about-image-wrap">
     <img src="profile%20pic%202.jpg" alt="Gerard Gallen" class="about-photo" />
   </div>
 </div>
 
 # About Me
 
-Senior Technical Writer and Information Architect with 10+ years transforming complex technical information into clear, scalable documentation systems.
+I am a senior technical writer and information architect with more than 10 years of experience turning complex systems, products, and workflows into clear, usable documentation.
 
-I combine **editorial excellence** with **information design discipline** to create documentation that genuinely supports user workflows. My approach is strategic: every piece of content is grounded in user research, aligned to business goals, and built to scale.
+My work sits at the intersection of **editorial craft**, **technical understanding**, and **information design**. I create content that supports users, reduces friction, improves product adoption, and helps organisations scale their documentation without losing clarity or quality.
 
-## What Drives My Work
+## What I do well
 
-I believe documentation is not a support function—it's a competitive advantage. Great documentation:
-- **Accelerates product adoption** by meeting users where they are
-- **Reduces support burden** by providing self-service pathways
-- **Scales with products** through structured, reusable content systems
-- **Builds trust** through clarity, accuracy, and consistency
+**Documentation strategy**  
+I help teams define documentation priorities, create scalable content structures, and improve how information is organised and maintained.
 
-I've led initiatives across **product documentation**, **developer platforms**, **enterprise software**, and **global-scale operations** where the stakes are high and the standards are rigorous.
+**Information architecture**  
+I design clear navigation, content hierarchies, and documentation systems that make complex information easier to find and use.
 
----
+**Technical writing**  
+I produce user guides, developer documentation, release notes, online help, and product content that balances accuracy with clarity.
 
-## Core Strengths
+**Governance and quality**  
+I improve review workflows, editorial consistency, and documentation quality through effective standards, process design, and defect reduction.
 
-**Information Architecture & Content Strategy**
-Define documentation roadmaps, design information hierarchies, and align content with user mental models and business outcomes.
+**Structured authoring**  
+I work with DITA, Markdown, XML, and modular content frameworks to create maintainable, reusable content that scales with product growth.
 
-**Structured Authoring & Reusable Content**
-Design and implement DITA, Markdown, and XML-based systems that enable single-sourcing, topic reuse, and scalable content production.
-
-**Documentation Quality & Governance**
-Build quality frameworks, establish review processes, reduce defects, and implement metrics-driven improvement across documentation operations.
-
-**Agile Documentation Delivery**
-Work embedded in product teams, participate in sprint cycles, and maintain documentation velocity alongside rapid product releases.
-
-**Editorial Leadership**
-Mentor writing teams, establish editorial standards, conduct content reviews, and drive consistency across large documentation sets.
-
-**User-Centred Design**
-Conduct user research, iterate on content based on feedback, design navigation and discovery experiences, and ensure accessibility.
-
-**AI-Assisted Workflows**
-Leverage modern AI tools to accelerate content production, improve consistency, and scale operations without sacrificing governance.
+**AI-assisted documentation**  
+I use AI tools responsibly to speed up content workflows while maintaining governance, editorial control, and factual accuracy.
 
 ---
 
-## Tools & Technologies
+## Tools and technologies
 
-**Structured Authoring:** MadCap Flare, Oxygen XML Editor, DITA CMS, Markdown, AsciiDoc, XML/XSD
-
-**Content Management & Collaboration:** Confluence, Jira, GitHub, Azure DevOps, SharePoint, Git workflows
-
-**Documentation Tools:** API documentation platforms, help centre systems, static site generators, Sphinx
-
-**Quality & Publishing:** Acrolinx, Adobe Acrobat, HTML/CSS, DocBook, publishing automation
-
-**Microsoft Office Suite:** Word, Excel, PowerPoint, Visio (advanced templates and governance)
-
----
-
-## Background & Education
-
-**BA in Journalism and English** — Staffordshire University
-Strong foundation in writing, editing, research, and communicating complex ideas clearly.
-
-**Diploma in Audio and Moving Image** — North West Institute
-Diversified skill set spanning visual communication, production, and narrative design.
-
-**Career Journey:**
-- Started in **editorial and journalism**, learning to research, synthesize, and tell stories
-- Moved into **technical communication** with a focus on user-centred content
-- Progressed to **documentation leadership**, designing systems and mentoring teams
-- Now focused on **strategic documentation** aligned to product and business goals
-
-This journey—from storytelling to technical depth to strategic leadership—informs how I approach documentation. Every word serves the user; every system scales the impact.
+- MadCap Flare
+- Oxygen XML Editor
+- DITA / XML / Markdown
+- GitHub and Git workflows
+- Confluence and Jira
+- Azure DevOps
+- Adobe Acrobat
+- Microsoft Office suite
+- SharePoint and documentation publishing systems
 
 ---
 
-## Why I'm Different
+## Background
 
-✓ **Not just a writer** — I think strategically about information architecture, content systems, and business alignment
+I have a BA in Journalism and English from Staffordshire University and a Diploma in Audio and Moving Image from the North West Institute. That foundation gave me strong editorial judgement, attention to detail, and a habit of communicating clearly for different audiences.
 
-✓ **Enterprise experience** — I've worked at scale (Fortune 500, global platforms, SaaS hypergrowth) where processes and governance matter
+My career has evolved from editorial work into technical communication and information design, where I have spent the last decade helping organisations communicate complex product information in ways that are clear, practical, and useful for real users.
 
-✓ **Hands-on practitioner** — I still write and edit regularly; I'm not delegating the craft
-
-✓ **User-focused by default** — Every initiative is grounded in understanding how users actually work
-
-✓ **Process-oriented** — I build systems, workflows, and governance frameworks that outlast any single project
-
-✓ **Collaborative leader** — I work with product, engineering, support, and marketing to align documentation with real organizational needs
+I enjoy working in environments where good documentation is a strategic asset: where product quality, customer experience, and operational efficiency all depend on clear, well-structured information.
 
 ---
 
-## What's Next
+## Why this matters
 
-I'm seeking roles where documentation is recognized as strategic—where a strong information strategy directly supports product adoption, customer success, and operational efficiency.
+Good documentation is not just support content. It reduces confusion, improves user confidence, lowers support costs, and helps products land successfully in the market. I care about content that works in the real world: content users can trust, navigate, and act on quickly.
 
-If you're building products where users deserve clear, thoughtful documentation, I'd welcome a conversation.
-
-**[Get in touch →](contact.md)** | **[Download CV](Gerard%20Gallen%20CV%202026.docx)**
+**[Download CV](Gerard%20Gallen%20CV%202026.docx)**  •  **[Contact me](contact.md)**
 
 <style>
   .about-header {
     display: flex;
     justify-content: center;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
   }
-  
-  .about-image {
+
+  .about-image-wrap {
     width: 200px;
     height: 200px;
-    border-radius: 16px;
+    border-radius: 14px;
     overflow: hidden;
-    border: 3px solid #2196F3;
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    box-shadow: 0 16px 40px rgba(33, 150, 243, 0.15);
+    border: 3px solid rgba(33, 150, 243, 0.8);
+    background: linear-gradient(135deg, #eef4fb, #dfeaf7);
+    box-shadow: 0 18px 40px rgba(33, 150, 243, 0.1);
   }
-  
+
   .about-photo {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
-    filter: grayscale(100%) contrast(1.12) brightness(0.94) saturate(0.8);
+    filter: grayscale(100%) contrast(1.08) brightness(0.96) saturate(0.7);
   }
-  
+
   @media (max-width: 640px) {
-    .about-image {
+    .about-image-wrap {
       width: 160px;
       height: 160px;
     }
