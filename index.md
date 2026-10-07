@@ -67,9 +67,9 @@ nav_order: 1
 ## Portfolio Highlights
 
 - **[SITA](sita/)** — Travel and passenger information documentation, AI-enabled workflow support, and content governance
-- **[Bard na nGleann](bard-na-ngleann/)** — Product help centre content, developer documentation, and onboarding flows
+- **[Bard na nGleann](bard-na-ngleann/)** — Product help centre content, developer documentation, and onboarding flows at Google
 - **[Sidero](sidero/)** — Structured authoring for network documentation and agile delivery
-- **[Cisco](cisco/)** — Legacy content migration, release documentation, and documentation quality improvement
+- **[Innovatia](cisco/)** — Legacy content migration, release documentation, and documentation quality improvement at Cisco
 
 ---
 
