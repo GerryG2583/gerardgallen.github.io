@@ -51,6 +51,8 @@ More recently, I've been exploring how AI can support documentation teams by red
 - Adobe Acrobat
 - Microsoft 365
 - SharePoint and publishing platforms
+- GitHub Copilot
+- Visual Studio Code
 
 ---
 
