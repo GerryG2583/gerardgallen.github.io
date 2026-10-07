@@ -74,7 +74,7 @@ When information is clear and easy to find, people can focus on using a product 
 
 That's what motivates me: creating content that people can trust, understand quickly, and use successfully in the real world.
 
-**[Download CV](Gerard%20Gallen%20CV%202026.docx)**  •  **[Contact me](contact.md)**
+**[Download CV](Gerard%20Gallen%20CV%202026.docx)**  •  **[Contact Me](contact.md)**
 
 <style>
   .about-header {
