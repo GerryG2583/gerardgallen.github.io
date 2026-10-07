@@ -12,29 +12,31 @@ nav_order: 2
 
 # About Me
 
-I am a senior technical writer and information architect with more than 10 years of experience turning complex systems, products, and workflows into clear, usable documentation.
+I'm a senior technical writer and information architect with more than ten years of experience helping people understand complex products, systems, and processes.
 
-My work sits at the intersection of **editorial craft**, **technical understanding**, and **information design**. I create content that supports users, reduces friction, improves product adoption, and helps organisations scale their documentation without losing clarity or quality.
+Over the years I've worked across technical documentation, content strategy, information architecture, and documentation governance. My focus has always been the same: taking complicated information and making it clear, practical, and easy to use.
 
-## What I do well
+I enjoy working closely with product teams, subject matter experts, developers, and stakeholders to create documentation that genuinely helps people get their jobs done. Whether that's a user guide, an architecture document, release notes, or an online help system, I believe good documentation should answer questions quickly and make life easier for the reader.
 
-**Documentation strategy**  
-I help teams define documentation priorities, create scalable content structures, and improve how information is organised and maintained.
+## What I Do
 
-**Information architecture**  
-I design clear navigation, content hierarchies, and documentation systems that make complex information easier to find and use.
+**Documentation Strategy**  
+I help organisations understand what content they need, who it is for, and how it should be structured. This includes developing documentation standards, creating content models, and helping teams build documentation that can grow alongside their products.
 
-**Technical writing**  
-I produce user guides, developer documentation, release notes, online help, and product content that balances accuracy with clarity.
+**Information Architecture**  
+A lot of my work involves organising information so people can find what they need without getting lost. I've designed navigation structures, content hierarchies, and documentation frameworks that make large collections of information easier to manage and use.
 
-**Governance and quality**  
-I improve review workflows, editorial consistency, and documentation quality through effective standards, process design, and defect reduction.
+**Technical Writing**  
+I write a wide range of documentation, including user guides, administrator guides, release notes, online help, knowledge base content, and developer-facing documentation. My goal is always to balance technical accuracy with readability.
 
-**Structured authoring**  
-I work with DITA, Markdown, XML, and modular content frameworks to create maintainable, reusable content that scales with product growth.
+**Documentation Governance**  
+I'm particularly interested in documentation quality and consistency. I've worked on review processes, editorial standards, taxonomy design, metadata strategies, and content governance initiatives that help teams maintain documentation at scale.
 
-**AI-assisted documentation**  
-I use AI tools responsibly to speed up content workflows while maintaining governance, editorial control, and factual accuracy.
+**Structured Authoring and Content Reuse**  
+I have experience working with DITA, XML, Markdown, and component-based authoring approaches. I'm a strong believer in creating content once and reusing it where it adds value, rather than maintaining multiple versions of the same information.
+
+**AI and Documentation**  
+More recently, I've been exploring how AI can support documentation teams by reducing repetitive work and speeding up content workflows. I'm interested in applying these tools in a practical way while maintaining strong editorial oversight, governance, and accuracy.
 
 ---
 
@@ -42,29 +44,33 @@ I use AI tools responsibly to speed up content workflows while maintaining gover
 
 - MadCap Flare
 - Oxygen XML Editor
-- DITA / XML / Markdown
-- GitHub and Git workflows
+- DITA, XML, Markdown
+- GitHub and Git-based workflows
 - Confluence and Jira
 - Azure DevOps
 - Adobe Acrobat
-- Microsoft Office suite
-- SharePoint and documentation publishing systems
+- Microsoft 365
+- SharePoint and publishing platforms
 
 ---
 
 ## Background
 
-I have a BA in Journalism and English from Staffordshire University and a Diploma in Audio and Moving Image from the North West Institute. That foundation gave me strong editorial judgement, attention to detail, and a habit of communicating clearly for different audiences.
+My background is in journalism and media, with a BA in Journalism and English from Staffordshire University and a Diploma in Audio and Moving Image from the North West Institute.
 
-My career has evolved from editorial work into technical communication and information design, where I have spent the last decade helping organisations communicate complex product information in ways that are clear, practical, and useful for real users.
+That foundation taught me how to communicate clearly, ask the right questions, and tailor information to different audiences. Those skills have stayed with me throughout my career and continue to shape how I approach technical communication today.
 
-I enjoy working in environments where good documentation is a strategic asset: where product quality, customer experience, and operational efficiency all depend on clear, well-structured information.
+Over the last decade, I've built a career helping organisations improve the way they create, organise, and deliver information. I find the most rewarding projects are the ones where better documentation makes a measurable difference, whether that's improving the customer experience, supporting product adoption, or helping teams work more efficiently.
 
 ---
 
-## Why this matters
+## Why Documenttaion matters
 
-Good documentation is not just support content. It reduces confusion, improves user confidence, lowers support costs, and helps products land successfully in the market. I care about content that works in the real world: content users can trust, navigate, and act on quickly.
+Good documentation is often overlooked until it is missing.
+
+When information is clear and easy to find, people can focus on using a product instead of figuring it out. Good documentation reduces support effort, improves user confidence, and helps organisations deliver a better overall experience.
+
+That's what motivates me: creating content that people can trust, understand quickly, and use successfully in the real world.
 
 **[Download CV](Gerard%20Gallen%20CV%202026.docx)**  •  **[Contact me](contact.md)**
 
