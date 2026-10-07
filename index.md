@@ -17,8 +17,8 @@ nav_order: 1
         My role is to turn complex technical information into documentation that people can actually use. Whether the audience is a customer, administrator, or developer, I focus on making information clear, accessible, and practical.
       </p>
       <div class="cta-group">
-        <a href="#portfolio" class="btn btn-primary">View portfolio</a>
-        <a href="contact.md" class="btn btn-secondary">Contact me</a>
+        <a href="#portfolio" class="btn btn-primary">View Portfolio</a>
+        <a href="contact.md" class="btn btn-secondary">Contact Me</a>
         <a href="Gerard%20Gallen%20CV%202026.docx" class="btn btn-tertiary">Download CV</a>
       </div>
     </div>
@@ -87,7 +87,7 @@ nav_order: 1
 
 I am available for senior technical writing, documentation strategy, information architecture, or content operations roles where good documentation is a business asset and not a side task.
 
-**[Contact me](contact.md)**  •  **[Download CV](Gerard%20Gallen%20CV%202026.docx)**
+**[Contact Me](contact.md)**  •  **[Download CV](Gerard%20Gallen%20CV%202026.docx)**
 
 <style>
   .hero-section {
