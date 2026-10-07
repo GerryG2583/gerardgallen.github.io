@@ -14,7 +14,7 @@ nav_order: 1
       <h1 class="profile-title">Gerard Gallen</h1>
       <p class="profile-subtitle">Senior Technical Writer & Documentation Strategist</p>
       <p class="profile-summary">
-        I help organisations turn complex product information into clear, usable documentation that improves customer experience, reduces support demand, and supports product adoption at scale.
+        My role is to turn complex technical information into documentation that people can actually use. Whether the audience is a customer, administrator, or developer, I focus on making information clear, accessible, and practical.
       </p>
       <div class="cta-group">
         <a href="#portfolio" class="btn btn-primary">View portfolio</a>
@@ -27,36 +27,36 @@ nav_order: 1
 
 ---
 
-## Core strengths
+## Core Strengths
 
 <div class="expertise-grid">
   <div class="expertise-card">
-    <h3>Documentation strategy</h3>
+    <h3>Documentation Strategy</h3>
     <p>Roadmaps, governance, standards, and scalable documentation systems aligned to product and business goals.</p>
   </div>
 
   <div class="expertise-card">
-    <h3>Information architecture</h3>
+    <h3>Information Architecture</h3>
     <p>Content structures, taxonomies, navigation, and user-centred design that make complex systems easier to understand.</p>
   </div>
 
   <div class="expertise-card">
-    <h3>Technical writing</h3>
+    <h3>Technical Writing</h3>
     <p>User guides, release notes, help centre content, API docs, and developer-facing documentation for complex products.</p>
   </div>
 
   <div class="expertise-card">
-    <h3>Structured authoring</h3>
-    <p>DITA, Markdown, XML, topic-based writing, single-sourcing, and scalable workflows for maintainable content.</p>
+    <h3>Structured Authoring</h3>
+    <p>DITA, Markdown, XML, HTML, topic-based writing, single-sourcing, and scalable workflows for maintainable content.</p>
   </div>
 
   <div class="expertise-card">
-    <h3>Documentation quality</h3>
+    <h3>Documentation Quality</h3>
     <p>Review frameworks, editorial standards, defect reduction, and process improvements that increase content quality.</p>
   </div>
 
   <div class="expertise-card">
-    <h3>AI-assisted documentation</h3>
+    <h3>AI-assisted Documentation</h3>
     <p>Modern workflows that combine AI efficiency with governance, accuracy, and editorial control.</p>
   </div>
 </div>
@@ -64,7 +64,7 @@ nav_order: 1
 ---
 
 <a id="portfolio"></a>
-## Portfolio highlights
+## Portfolio Highlights
 
 - **[SITA](sita/)** — Travel and passenger information documentation, AI-enabled workflow support, and content governance
 - **[Bard na nGleann](bard-na-ngleann/)** — Product help centre content, developer documentation, and onboarding flows
@@ -73,7 +73,7 @@ nav_order: 1
 
 ---
 
-## Why employers choose this profile
+## Why Employers Choose this Profile
 
 - 10+ years of experience translating complex technical information into clear, usable content
 - Experience working across enterprise software, SaaS, and global operations
@@ -83,7 +83,7 @@ nav_order: 1
 
 ---
 
-## Open to opportunities
+## Open to Opportunities
 
 I am available for senior technical writing, documentation strategy, information architecture, or content operations roles where good documentation is a business asset and not a side task.
 
