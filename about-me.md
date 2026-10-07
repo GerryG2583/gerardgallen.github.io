@@ -40,7 +40,7 @@ More recently, I've been exploring how AI can support documentation teams by red
 
 ---
 
-## Tools and technologies
+## Tools and Technologies
 
 - MadCap Flare
 - Oxygen XML Editor
@@ -66,7 +66,7 @@ Over the last decade, I've built a career helping organisations improve the way 
 
 ---
 
-## Why Documenttaion matters
+## Why Documentation Matters
 
 Good documentation is often overlooked until it is missing.
 
