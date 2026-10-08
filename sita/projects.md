@@ -28,6 +28,6 @@ I act as the MadCap Flare Administrator for the technical writing team and also 
 ## Toolkit Redesign
 I created a new taxonomy and layout for the documents stored in the toolkits in SITA. This involved creating a modern page and retagging and reviewing documents across multiple products and modules. 
 
-
+![Example Flare Project](../images/toolkit-redesign.jpg)
 
 ---
