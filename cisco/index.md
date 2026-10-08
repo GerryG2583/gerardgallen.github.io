@@ -5,13 +5,13 @@ nav_order: 6
 has_children: true
 ---
 
-# Cisco
+# Innovatia
 
 ## Overview
 
-Technical Writer supporting the Cisco Expressway product line. I managed feature documentation, led major content migration from the legacy VCS platform, and improved documentation quality through cross-functional collaboration.
+As a Technical Writer for Cisco Expressway, I documented new features and releases and led a major migration of content from the legacy VCS platform.
 
-The role required careful attention to accuracy, release cadence, and user clarity in a fast-moving enterprise networking environment.
+I worked closely with engineering and product teams to keep the documentation accurate and useful as the product evolved.
 
 ## Key Projects
 
@@ -21,7 +21,7 @@ Led migration of Cisco VCS content into a unified product offering within MadCap
 **Impact:** Reduced user confusion, created a clearer single source of truth, improved discoverability, and supported faster release cycles.
 
 ### Expressway Feature Documentation
-Delivered timely, accurate documentation for Expressway feature releases and product updates across multiple versions.
+Delivered timely, accurate, documentation for Expressway feature releases and product updates across multiple versions.
 
 **Impact:** Supported feature adoption, reduced customer confusion, and improved time-to-value.
 
