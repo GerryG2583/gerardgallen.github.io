@@ -51,19 +51,25 @@ The AI Document Processing Engine modernises Word-based documentation workflows 
 - Reusable Markdown source content
 - Reduced manual formatting effort
 
+This project is currently in the process of being integrated into the wider SITA Agentic toolkit. 
+
 ---
 
 ## MadCap Flare Template and Documentation Governance
 
+### Overview
+
+I act as the MadCap Flare Administrator for the technical writing team and build online help packages. This role includes maintaining the HTML and PDF templates and assisting the team with issues in both Flare and Flare Online and keeping teams updated with tips and tricks via a Teams channel. 
+
 **Project Type:** Documentation infrastructure, governance framework
 
 ### Deliverables
-- Flare project template and configuration guide
-- Documentation tagging and metadata standards
-- Content governance policy and procedures
-- Platform administration documentation
-- Toolkit rationalization report
-- Training materials for writers
+- Flare project template and onboarding guide
+- Building HTML and PDF help
+- Flare Online access management for SITA teams
+- Migration of Word docs to Flare
+- Conditioning for multiple outputs
+
 
 ### Tools & Technologies
 MadCap Flare, XML, DITA principles, governance frameworks
