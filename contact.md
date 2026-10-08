@@ -4,11 +4,11 @@ title: Contact & Opportunities
 nav_order: 7
 ---
 
-# Let's connect
+# Let's Connect
 
-I am open to senior technical writing, documentation strategy, content design, and content operations opportunities where strong communication and clear information systems are central to product success.
+I'm open to senior technical writing, documentation strategy, content design, and content operations roles where I can help teams create clearer, better-organised documentation.
 
-Whether you are looking for someone to improve documentation quality, redesign information architecture, or bring structure to a growing documentation function, I would be glad to talk.
+If you're looking for someone who can improve existing content, rethink how documentation is structured, or help develop a more consistent approach to technical communication, I'd be happy to have a conversation.
 
 ---
 
@@ -36,10 +36,4 @@ Whether you are looking for someone to improve documentation quality, redesign i
 - [SITA](sita/)
 - [Bard na nGleann](bard-na-ngleann/)
 - [Sidero](sidero/)
-- [Cisco](cisco/)
-
----
-
-I welcome conversations about documentation challenges, process improvement, and how to make technical information easier for users to understand and use.
-
-**[Email me](mailto:gerard.gallen@gmail.com)**
+- [Innovatia](cisco/)
