@@ -12,7 +12,7 @@ If you're looking for someone who can improve existing content, rethink how docu
 
 ---
 
-## Contact details
+## Contact Details
 
 - Email: [gerard.gallen@gmail.com](mailto:gerard.gallen@gmail.com)
 - LinkedIn: [linkedin.com/in/gerard-gallen](https://www.linkedin.com/in/gerard-gallen)
@@ -21,7 +21,7 @@ If you're looking for someone who can improve existing content, rethink how docu
 
 ---
 
-## What I am looking for
+## What I am Looking for
 
 - Senior technical writing roles
 - Documentation strategy and governance responsibilities
@@ -31,7 +31,7 @@ If you're looking for someone who can improve existing content, rethink how docu
 
 ---
 
-## Relevant portfolio areas
+## Relevant Portfolio Areas
 
 - [SITA](sita/)
 - [Bard na nGleann](bard-na-ngleann/)
