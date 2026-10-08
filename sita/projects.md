@@ -74,7 +74,7 @@ I act as the MadCap Flare Administrator for the technical writing team and build
 ### Tools & Technologies
 MadCap Flare, XML, DITA principles, governance frameworks
 
-![AI Document Processing Engine](../images/MadCap Flare Project SITA.jpg)
+![AI Document Processing Engine](..images/madcap-flare-project.jpg)
 
 ---
 
