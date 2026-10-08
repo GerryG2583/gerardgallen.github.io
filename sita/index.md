@@ -9,14 +9,14 @@ has_children: true
 
 ## Overview
 
-SITA is a global air transport IT provider. My role as Senior Technical Writer focused on documentation strategy, product guidance, and content transformation for passenger-facing digital products in a complex, safety-critical environment.
+As a Senior Technical Writer at SITA, I create and improve documentation for aviation technology products, working closely with product, engineering, and support teams.
 
-I worked closely with product, engineering, and support teams to deliver clear, accurate, and maintainable documentation for critical customer workflows, while improving governance and reducing documentation backlog.
+Alongside technical writing, I work on documentation strategy, information architecture, governance, and AI adoption with a particular focus on making large documentation sets easier to manage, maintain, and navigate.
 
 ## Key Projects
 
 ### AI Document Processing Engine
-Co-created an AI-powered workflow to modernise manual documentation processes. The engine converts Word documents to Markdown, applies AI-assisted improvements, and recreates release-ready Word outputs for downstream publishing.
+Co-created an AI-powered workflow to modernize manual documentation processes. The engine converts Word documents to Markdown, applies AI-assisted improvements, and recreates release-ready Word and Markdown outputs for downstream publishing.
 
 **Impact:** Faster document modernisation, more consistent style, improved content quality, and reusable Markdown source content.
 
@@ -40,6 +40,7 @@ Supported the documentation function through quality improvement initiatives and
 - GitHub Copilot
 - Documentation governance
 - Content modernisation
+- Sharepoint
 
 ## Sample Work
 
