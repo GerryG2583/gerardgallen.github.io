@@ -9,9 +9,9 @@ has_children: true
 
 ## Overview
 
-Remote-based technical writing role supporting Google product documentation. I managed help centre content, authored developer and API documentation, and designed onboarding flows for analytics and advertising products in a fast-moving digital environment.
+I worked remotely on Google product documentation, managing Help Centre content and creating developer and API documentation for Google Analytics. I also designed onboarding content to help users get started with the product.
 
-This role required a strong understanding of product complexity, user intent, and documentation quality at scale. I worked across content updates, feature launches, and developer guidance to ensure documentation remained clear, current, and useful.
+The role involved keeping documentation accurate and up to date as the product evolved, supporting feature launches, and making complex technical information easier for both users and developers to understand.
 
 ## Key Projects
 
@@ -25,8 +25,8 @@ Authored comprehensive guides for Google Tag Manager and Ads Data Hub, following
 
 **Impact:** Clear API guidance for integration teams, improved developer experience, and faster time-to-integration.
 
-### UI Flow Design for Feature Onboarding
-Designed guided UI flows for new Google Analytics features to improve user adoption and reduce the learning curve.
+### UI Flow for GA4 Interface
+Designed guided UI flows for new GA4 features to improve user adoption and reduce the learning curve.
 
 **Impact:** Better feature discovery, improved onboarding, and increased feature adoption.
 
@@ -37,7 +37,6 @@ Designed guided UI flows for new Google Analytics features to improve user adopt
 - Developer documentation
 - API guidance and onboarding flows
 - Documentation quality review
-- Content delivery in fast-paced release cycles
 
 ## Sample Work
 
