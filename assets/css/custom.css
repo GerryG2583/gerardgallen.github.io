@@ -1,0 +1,146 @@
+:root {
+  --bg: #f5f7fb;
+  --surface: #ffffff;
+  --panel: #eef4fb;
+  --text: #17212b;
+  --muted: #5c6470;
+  --primary: #0f4c81;
+  --primary-strong: #0a3d68;
+  --accent: #2f9ed8;
+  --border: #dfe8f1;
+  --shadow: rgba(23, 33, 43, 0.06);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.site-title,
+.site-title a {
+  color: var(--text) !important;
+  font-weight: 700;
+}
+
+.main-content {
+  background: transparent;
+  color: var(--text);
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: var(--text);
+  letter-spacing: -0.02em;
+}
+
+.main-content p,
+.main-content li,
+.main-content td,
+.main-content th,
+.main-content blockquote {
+  color: var(--text);
+}
+
+.main-content a,
+.site-button,
+.nav-list-link,
+.breadcrumb a {
+  color: var(--primary);
+  transition: color 0.15s ease;
+}
+
+.main-content a:hover,
+.main-content a:focus,
+.nav-list-link:hover,
+.nav-list-link.active,
+.breadcrumb a:hover {
+  color: var(--primary-strong);
+}
+
+.side-bar {
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+}
+
+.nav-list-link {
+  color: var(--muted);
+}
+
+.nav-list-link.active,
+.nav-list-link:hover {
+  background: rgba(15, 76, 129, 0.06);
+  border-radius: 6px;
+}
+
+.search-input {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  border-radius: 8px;
+}
+
+.search-input:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(15, 76, 129, 0.12);
+}
+
+.btn,
+button,
+input[type="submit"] {
+  background: var(--primary);
+  color: #fff;
+  border: 0;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px var(--shadow);
+}
+
+.btn:hover,
+button:hover,
+input[type="submit"]:hover {
+  background: var(--primary-strong);
+}
+
+code,
+pre {
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background: var(--surface);
+}
+
+th,
+td {
+  border-bottom: 1px solid var(--border);
+  padding: 0.7rem 0.8rem;
+}
+
+th {
+  color: var(--text);
+  background: transparent;
+}
+
+blockquote {
+  border-left: 4px solid var(--accent);
+  background: rgba(47, 158, 216, 0.05);
+  padding: 0.8rem 1rem;
+  border-radius: 0 8px 8px 0;
+}
+
+hr {
+  border-color: var(--border);
+}
+
+.footer,
+.text-small,
+.muted {
+  color: var(--muted);
+}
