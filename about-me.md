@@ -44,7 +44,7 @@ More recently, I've been exploring how AI can support documentation teams by red
 
 - MadCap Flare
 - Oxygen XML Editor
-- DITA, XML, Markdown
+- DITA, XML, Markdown, HTML
 - GitHub and Git-based workflows
 - Confluence and Jira
 - Azure DevOps
@@ -68,11 +68,11 @@ Over the last decade, I've built a career helping organisations improve the way 
 
 ## Why Documentation Matters
 
-Good documentation is often overlooked until it is missing.
+You often don’t notice good documentation. You just find what you need, understand it, and move on.
 
-When information is clear and easy to find, people can focus on using a product instead of figuring it out. Good documentation reduces support effort, improves user confidence, and helps organisations deliver a better overall experience.
+That simplicity takes work. Clear, well-structured content can remove frustration, reduce the need for support, and help people feel more confident using a product.
 
-That's what motivates me: creating content that people can trust, understand quickly, and use successfully in the real world.
+For me, that’s the rewarding part of technical writing: taking something complex and making it easier for someone else to understand and use.
 
 **[Download CV](Gerard%20Gallen%20CV%202026.docx)**  •  **[Contact Me](contact.md)**
 
