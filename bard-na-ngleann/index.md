@@ -3,6 +3,7 @@ layout: default
 title: Bard na nGleann
 nav_order: 4
 has_children: true
+toc: false
 ---
 
 # Bard na nGleann

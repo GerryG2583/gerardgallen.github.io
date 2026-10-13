@@ -3,6 +3,7 @@ layout: default
 title: Innovatia
 nav_order: 6
 has_children: true
+toc: false
 ---
 
 # Innovatia
