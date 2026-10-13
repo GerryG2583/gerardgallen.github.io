@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Sidero
-nav_order: 5
+parent: Portfolio
+nav_order: 3
 has_children: true
 has_toc: false
 ---
