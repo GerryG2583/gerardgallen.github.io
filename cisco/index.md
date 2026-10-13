@@ -7,6 +7,8 @@ has_children: true
 
 # Innovatia
 
+## Overview
+
 As a Technical Writer for Cisco Expressway, I documented new features and releases and led a major migration of content from the legacy VCS platform.
 
 I worked closely with engineering and product teams to keep the documentation accurate and useful as the product evolved.
