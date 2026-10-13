@@ -5,7 +5,7 @@ parent: Sidero
 nav_order: 2
 ---
 
-# Sidero Sample Projects
+# Sidero Example Projects
 
 ## Ericsson Network Manager Documentation Delivery
 
