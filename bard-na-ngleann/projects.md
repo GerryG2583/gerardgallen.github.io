@@ -24,6 +24,6 @@ I authored developer-facing documentation for Google Tag Manager and Ads Data Hu
 ## UI Flow Design for Feature Onboarding
 This work centred on designing user onboarding flows and product guidance for new Google Analytics features, helping users understand and adopt functionality more quickly.
 
-![GA4 Guided Flows](../images/ga-guided-flows.jpg)
+![GA4 Guided Flows](../images/ga4-flows-new.jpg)
 
 ---
