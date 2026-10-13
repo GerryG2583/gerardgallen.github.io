@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sample Work
+title: SITA Projects
 parent: SITA
 nav_order: 2
 ---
