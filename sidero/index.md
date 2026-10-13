@@ -7,8 +7,6 @@ has_children: true
 
 # Sidero
 
-## Overview
-
 I worked on Ericsson Network Manager in a DITA-based documentation environment, creating and maintaining structured content across a broad range of product areas.
 
 Documentation was developed alongside the product in an Agile environment, so much of my work involved keeping pace with changes during each sprint while making sure content remained accurate, consistent, and reusable.
