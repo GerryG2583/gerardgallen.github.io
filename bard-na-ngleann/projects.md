@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sample Work
+title: Bard na nGleann Projects
 parent: Bard na nGleann
 nav_order: 2
 ---
