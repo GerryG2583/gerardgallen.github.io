@@ -29,3 +29,8 @@ Delivered timely, accurate, documentation for Expressway feature releases and pr
 Systematically reduced the documentation bug count through collaboration with engineering, product, and support teams, establishing a more robust review process.
 
 **Impact:** Fewer documentation issues, improved customer satisfaction, and reduced support burden.
+
+## Related links
+
+- [View Innovatia project examples](projects.md)
+- [Back to portfolio overview](../index.md#portfolio)

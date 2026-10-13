@@ -9,7 +9,7 @@ has_children: true
 
 ## Overview
 
-I worked remotely on Google product documentation, managing Help Centre content and creating developer and API documentation for Google Analytics. I also designed onboarding content to help users get started with the product.
+I worked remotely on Google product documentation, managing Help Centre content and creating developer and API documentation for Google Analytics. I also designed onboarding content to help users navigate new features and workflows more easily.
 
 The role involved keeping documentation accurate and up to date as the product evolved, supporting feature launches, and making complex technical information easier for both users and developers to understand.
 
@@ -29,3 +29,8 @@ Authored comprehensive guides for Google Tag Manager and Ads Data Hub, following
 Designed guided UI flows for new GA4 features to improve user adoption and reduce the learning curve.
 
 **Impact:** Better feature discovery, improved onboarding, and increased feature adoption.
+
+## Related links
+
+- [View Bard na nGleann project examples](projects.md)
+- [Back to portfolio overview](../index.md#portfolio)

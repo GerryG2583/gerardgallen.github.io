@@ -11,7 +11,7 @@ has_children: true
 
 I worked on Ericsson Network Manager in a DITA-based documentation environment, creating and maintaining structured content across a broad range of product areas.
 
-Documentation was developed alongside the product in an Agile environment, so much of my work involved keeping pace with changes during each sprint while making sure content remained accurate, consistent, and reusable.
+Documentation was developed alongside the product in an Agile environment, so much of my work involved keeping pace with changes during each sprint while making sure content remained accurate, complete, and easy to navigate.
 
 ## Key Projects
 
@@ -29,3 +29,8 @@ Led adoption of the DITA CMS web editor across multiple developer teams, improvi
 Active participation in setting up the Agile team, including stand-ups and retrospectives, to align documentation with product development and ensure sprint targets were met.
 
 **Impact:** Documentation delivered on time, no release delays, and strong cross-team collaboration.
+
+## Related links
+
+- [View Sidero project examples](projects.md)
+- [Back to portfolio overview](../index.md#portfolio)
