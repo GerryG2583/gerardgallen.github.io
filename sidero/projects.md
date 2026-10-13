@@ -11,7 +11,7 @@ nav_order: 2
 
 I managed documentation for Ericsson Network Manager in a DITA-based environment, supporting release-ready content aligned with sprint-based product delivery. I also worked on the migration of content from Confluence to a new CMS.
 
-![ENM CPI](../images/enm-cpi.jpg)
+![ENM CPI](../images/enm-cpi-new.jpg)
 
 ---
 
