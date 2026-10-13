@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sidero Projects
-parent: Sidero 
+parent: Sidero
 nav_order: 2
 ---
 
@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Ericsson Network Manager Documentation Delivery
 
-I managed documentation for Ericsson Network Manager in a DITA-based environment, supporting release-ready content aligned with sprint-based product delivery. I also worked on the migration of content from Confluence to a new CMS.
+I managed documentation for Ericsson Network Manager in a DITA-based environment, supporting release-ready content aligned with sprint-based product delivery. I also worked on the migration of content and process improvements to support more efficient change handling.
 
 ![ENM CPI](../images/enm-cpi-new.jpg)
 
@@ -23,6 +23,6 @@ This work focused on rolling out a lightweight DITA CMS web editor to developer 
 
 ## Agile Documentation Delivery
 
-I worked closely with the documentation team to set up a Kanban board for documentation tasks. 
+I worked closely with the documentation team to set up a Kanban board for documentation tasks.
 
 ---

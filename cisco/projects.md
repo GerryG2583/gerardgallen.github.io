@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Innovatia Projects
-parent: cisco
+parent: Innovatia
 nav_order: 2
 ---
 
@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Cisco VCS to Cisco Expressway Migration
 
-I led the migration of legacy Cisco VCS content into a unified Expressway documentation structure, consolidating fragmented material into a clearer, more user-friendly system in MadCap Flare for both product and support audiences.
+I led the migration of legacy Cisco VCS content into a unified Expressway documentation structure, consolidating fragmented material into a clearer, more user-friendly system in MadCap Flare for both hardware and software documentation. This work improved discoverability and reduced duplicated content across multiple product releases.
 
 ---
 
@@ -22,6 +22,7 @@ Example hardware and software documents are available upon request.
 ---
 
 ## Documentation Quality and Defect Reduction
+
 This work focused on reducing documentation defects and improving review quality through stronger governance and cross-functional collaboration.
 
 ---
