@@ -4,15 +4,9 @@ title: About Me
 nav_order: 2
 ---
 
-<div class="about-header">
-  <div class="about-image-wrap">
-    <img src="profile%20pic%202.jpg" alt="Gerard Gallen" class="about-photo" />
-  </div>
-</div>
-
 # About Me
 
-I'm a senior technical writer and information architect with more than ten years of experience helping people understand complex products, systems, and processes.
+I'm a Senior Technical Writer and Information Architect with more than ten years of experience helping people understand complex products, systems, and processes.
 
 Over the years I've worked across technical documentation, content strategy, information architecture, and documentation governance. My focus has always been the same: taking complicated information and making it clear, practical, and easy to use.
 
