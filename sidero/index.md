@@ -29,17 +29,3 @@ Led adoption of the DITA CMS web editor across multiple developer teams, improvi
 Active participation in setting up the Agile team, including stand-ups and retrospectives, to align documentation with product development and ensure sprint targets were met.
 
 **Impact:** Documentation delivered on time, no release delays, and strong cross-team collaboration.
-
-## Skills & Tools
-
-- DITA XML and structured authoring
-- DITA CMS
-- Agile documentation delivery
-- Release documentation
-- Content reuse and modular authoring
-- Documentation quality assurance
-- Confluence
-
-## Sample Work
-
-- [Projects and Sample Documentation](projects.md)
