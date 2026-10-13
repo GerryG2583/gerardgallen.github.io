@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact & Opportunities
+title: Contact
 nav_order: 7
 ---
 
