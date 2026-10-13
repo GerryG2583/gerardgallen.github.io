@@ -27,7 +27,7 @@ nav_order: 1
 
 ---
 
-## Core Strengths
+## Areas of Expertise
 
 <div class="expertise-grid">
   <div class="expertise-card">
@@ -73,7 +73,7 @@ nav_order: 1
 
 ---
 
-## Why Employers Choose this Profile
+## What You Can Expect
 
 - 10+ years of experience translating complex technical information into clear, usable content
 - Experience working across enterprise software, SaaS, and global operations
