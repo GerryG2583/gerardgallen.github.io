@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Innovatia
-nav_order: 6
+parent: Portfolio
+nav_order: 4
 has_children: true
 has_toc: false
 ---
