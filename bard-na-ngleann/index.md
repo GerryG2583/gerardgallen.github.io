@@ -29,15 +29,3 @@ Authored comprehensive guides for Google Tag Manager and Ads Data Hub, following
 Designed guided UI flows for new GA4 features to improve user adoption and reduce the learning curve.
 
 **Impact:** Better feature discovery, improved onboarding, and increased feature adoption.
-
-## Skills & Tools
-
-- Google product documentation
-- Help centre content management
-- Developer documentation
-- API guidance and onboarding flows
-- Documentation quality review
-
-## Sample Work
-
-- [Projects and Sample Documentation](projects.md)
