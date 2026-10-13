@@ -16,32 +16,16 @@ Alongside technical writing, I work on documentation strategy, information archi
 ## Key Projects
 
 ### AI Document Processing Engine
-Co-created an AI-powered workflow to modernize manual documentation processes. The engine converts Word documents to Markdown, applies AI-assisted improvements, and recreates release-ready Word and Markdown outputs for downstream publishing.
+Co-created an AI-powered workflow to modernize documentation. The engine converts Word documents to Markdown, applies AI-assisted improvements, and recreates release-ready Word and Markdown outputs for downstream publishing.
 
 **Impact:** Faster document modernisation, more consistent style, improved content quality, and reusable Markdown source content.
 
-### MadCap Flare Template and Documentation Governance
-Redesigned toolkit pages and documentation tagging to reduce overdue and obsolete content. Managed Flare administration, template rebranding, migration, and platform maintenance across a large documentation estate.
+### MadCap Flare Administration
+Managed all Flare related administration, template rebranding, migration, and platform maintenance across a large documentation estate.
 
-**Impact:** Significantly fewer overdue documents, improved maintainability, and more efficient governance.
+**Impact:** Redesigned and modernized the Flare template for company rebranding and improved the PDF template.
 
 ### Documentation Quality and Team Growth
-Supported the documentation function through quality improvement initiatives and writer onboarding, helping strengthen the technical writing team and improve delivery consistency.
+Supported the documentation function through quality improvement initiatives and writer onboarding, helping strengthen the technical writing team and improve delivery consistency. Redesigned toolkit pages and documentation tagging to reduce overdue and obsolete content. 
 
 **Impact:** Better process maturity, stronger documentation standards, and improved team capability.
-
-## Skills & Tools
-
-- MadCap Flare
-- DITA and structured authoring
-- Markdown
-- Python
-- Azure OpenAI
-- GitHub Copilot
-- Documentation governance
-- Content modernisation
-- Sharepoint
-
-## Sample Work
-
-- [Projects and Sample Documentation](projects.md)
