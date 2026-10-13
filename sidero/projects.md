@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sample Work
-parent: Sidero
+parent: Sidero Projects
 nav_order: 2
 ---
 
