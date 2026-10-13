@@ -1,7 +1,8 @@
 ---
 layout: default
 title: SITA
-nav_order: 3
+parent: Portfolio
+nav_order: 1
 has_children: true
 has_toc: false
 ---
