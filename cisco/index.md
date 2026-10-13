@@ -7,8 +7,6 @@ has_children: true
 
 # Innovatia
 
-## Overview
-
 As a Technical Writer for Cisco Expressway, I documented new features and releases and led a major migration of content from the legacy VCS platform.
 
 I worked closely with engineering and product teams to keep the documentation accurate and useful as the product evolved.
@@ -29,16 +27,3 @@ Delivered timely, accurate, documentation for Expressway feature releases and pr
 Systematically reduced the documentation bug count through collaboration with engineering, product, and support teams, establishing a more robust review process.
 
 **Impact:** Fewer documentation issues, improved customer satisfaction, and reduced support burden.
-
-## Skills & Tools
-
-- MadCap Flare
-- Documentation migration
-- Release notes and feature documentation
-- Enterprise documentation quality improvement
-- Cross-functional review processes
-- Product content governance
-
-## Sample Work
-
-- [Projects and Sample Documentation](projects.md)
