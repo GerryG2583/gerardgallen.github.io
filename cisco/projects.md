@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sample Work
-parent: Cisco
+title: Sample Projects
+parent: Innovatia
 nav_order: 2
 ---
 
@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Cisco VCS to Cisco Expressway Migration
 
-I led the migration of legacy Cisco VCS content into a unified Expressway documentation structure, consolidating fragmented material into a clearer, more user-friendly system in MadCap Flare for both the online help and user documents.
+I led the migration of legacy Cisco VCS content into a unified Expressway documentation structure, consolidating fragmented material into a clearer, more user-friendly system in MadCap Flare for both product and support audiences.
 
 ---
 
@@ -17,7 +17,7 @@ I led the migration of legacy Cisco VCS content into a unified Expressway docume
 
 I delivered timely documentation for Expressway feature releases, helping users understand product updates and supporting product adoption.
 
-Example hardware and software documents are available upon request. 
+Example hardware and software documents are available upon request.
 
 ---
 
