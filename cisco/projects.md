@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sample Projects
-parent: Innovatia
+parent: Cisco
 nav_order: 2
 ---
 
