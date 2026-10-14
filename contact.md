@@ -15,7 +15,7 @@ If you're looking for someone who can improve existing content, rethink how docu
 ## Contact Details
 
 - Email: [gerard.gallen@gmail.com](mailto:gerard.gallen@gmail.com)
-- LinkedIn: [linkedin.com/in/gerard-gallen](https://www.linkedin.com/in/gerard-gallen)
+- LinkedIn: [linkedin.com/in/gerard-gallen](https://www.linkedin.com/in/gerard-gallen-93b53a1b3)
 - GitHub: [github.com/GerryG2583](https://github.com/GerryG2583)
 - CV: [Download CV](Gerard%20Gallen%20CV%202026.docx)
 
