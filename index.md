@@ -12,7 +12,7 @@ nav_order: 1
     <div class="profile-content">
       <p class="eyebrow">Technical Writing • Information Architecture • Documentation Strategy</p>
       <h1 class="profile-title">Gerard Gallen</h1>
-      <p class="profile-subtitle">Senior Technical Writer & Documentation Strategist</p>
+      <p class="profile-subtitle">Senior Technical Writer</p>
       <p class="profile-summary">
         My role is to turn complex technical information into documentation that people can actually use. Whether the audience is a customer, administrator, or developer, I focus on making information clear, accessible, and practical.
       </p>
