@@ -18,7 +18,7 @@ nav_order: 1
       </p>
       <div class="cta-group">
         <a href="#portfolio" class="btn btn-primary">View Portfolio</a>
-        <a href="contact.html" class="btn btn-secondary">Contact Me</a>
+        <a href="/gerardgallen.github.io/contact.html" class="btn btn-secondary">Contact Me</a>
         <a href="Gerard%20Gallen%20CV%202026.docx" class="btn btn-tertiary">Download CV</a>
       </div>
     </div>
