@@ -242,3 +242,46 @@ hr {
     animation-iteration-count: 1 !important;
   }
 }
+
+
+/* Intro action buttons */
+.cta-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 100%;
+  margin-top: 1.5rem;
+  box-sizing: border-box;
+}
+
+.cta-group .btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 1 auto;
+  min-width: 0;
+  max-width: 100%;
+  padding: 0.7rem 0.85rem;
+  font-size: 0.9rem;
+  line-height: 1.3;
+  text-align: center;
+  white-space: nowrap;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+/* Keep the buttons inside the intro card */
+.profile-content {
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+/* On narrow screens, allow the buttons to wrap rather than overflow */
+@media (max-width: 480px) {
+  .cta-group {
+    flex-wrap: wrap;
+  }
+}
