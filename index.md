@@ -7,7 +7,7 @@ nav_order: 1
 <div class="hero-section">
   <div class="profile-card">
     <div class="profile-image-container">
-      <img src="designer.jpg" alt="Gerard Gallen" class="profile-photo" />
+      <img src="Designer.jpg" alt="Gerard Gallen" class="profile-photo" />
     </div>
     <div class="profile-content">
       <p class="eyebrow">Technical Writing • Information Architecture • Documentation Strategy</p>
